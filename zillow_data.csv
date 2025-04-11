@@ -1,979 +1,978 @@
-key_row,regionname,regiontype
-key_row,RegionName,region_type
-united_states,United States,country
-alabama,Alabama,state
-alaska,Alaska,state
-arizona,Arizona,state
-arkansas,Arkansas,state
-california,California,state
-colorado,Colorado,state
-connecticut,Connecticut,state
-delaware,Delaware,state
-florida,Florida,state
-georgia,Georgia,state
-hawaii,Hawaii,state
-idaho,Idaho,state
-illinois,Illinois,state
-indiana,Indiana,state
-iowa,Iowa,state
-kansas,Kansas,state
-kentucky,Kentucky,state
-louisiana,Louisiana,state
-maine,Maine,state
-maryland,Maryland,state
-massachusetts,Massachusetts,state
-michigan,Michigan,state
-minnesota,Minnesota,state
-mississippi,Mississippi,state
-missouri,Missouri,state
-montana,Montana,state
-nebraska,Nebraska,state
-nevada,Nevada,state
-new_hampshire,New Hampshire,state
-new_jersey,New Jersey,state
-new_mexico,New Mexico,state
-new_york,New York,state
-north_carolina,North Carolina,state
-north_dakota,North Dakota,state
-ohio,Ohio,state
-oklahoma,Oklahoma,state
-oregon,Oregon,state
-pennsylvania,Pennsylvania,state
-rhode_island,Rhode Island,state
-south_carolina,South Carolina,state
-south_dakota,South Dakota,state
-tennessee,Tennessee,state
-texas,Texas,state
-utah,Utah,state
-vermont,Vermont,state
-virginia,Virginia,state
-washington,Washington,state
-west_virginia,West Virginia,state
-wisconsin,Wisconsin,state
-wyoming,Wyoming,state
-new_york_ny,"New York, NY",metro
-los_angeles_ca,"Los Angeles, CA",metro
-chicago_il,"Chicago, IL",metro
-dallas_tx,"Dallas, TX",metro
-houston_tx,"Houston, TX",metro
-philadelphia_pa,"Philadelphia, PA",metro
-washington_dc,"Washington, DC",metro
-miami_fl,"Miami, FL",metro
-atlanta_ga,"Atlanta, GA",metro
-boston_ma,"Boston, MA",metro
-san_francisco_ca,"San Francisco, CA",metro
-detroit_mi,"Detroit, MI",metro
-phoenix_az,"Phoenix, AZ",metro
-seattle_wa,"Seattle, WA",metro
-minneapolis_mn,"Minneapolis, MN",metro
-riverside_ca,"Riverside, CA",metro
-tampa_fl,"Tampa, FL",metro
-san_diego_ca,"San Diego, CA",metro
-st_louis_mo,"St. Louis, MO",metro
-denver_co,"Denver, CO",metro
-baltimore_md,"Baltimore, MD",metro
-pittsburgh_pa,"Pittsburgh, PA",metro
-portland_or,"Portland, OR",metro
-charlotte_nc,"Charlotte, NC",metro
-orlando_fl,"Orlando, FL",metro
-cleveland_oh,"Cleveland, OH",metro
-san_antonio_tx,"San Antonio, TX",metro
-cincinnati_oh,"Cincinnati, OH",metro
-sacramento_ca,"Sacramento, CA",metro
-kansas_city_mo,"Kansas City, MO",metro
-columbus_oh,"Columbus, OH",metro
-indianapolis_in,"Indianapolis, IN",metro
-las_vegas_nv,"Las Vegas, NV",metro
-austin_tx,"Austin, TX",metro
-nashville_tn,"Nashville, TN",metro
-san_jose_ca,"San Jose, CA",metro
-virginia_beach_va,"Virginia Beach, VA",metro
-milwaukee_wi,"Milwaukee, WI",metro
-providence_ri,"Providence, RI",metro
-jacksonville_fl,"Jacksonville, FL",metro
-oklahoma_city_ok,"Oklahoma City, OK",metro
-louisville_ky,"Louisville, KY",metro
-memphis_tn,"Memphis, TN",metro
-new_orleans_la,"New Orleans, LA",metro
-richmond_va,"Richmond, VA",metro
-raleigh_nc,"Raleigh, NC",metro
-buffalo_ny,"Buffalo, NY",metro
-hartford_ct,"Hartford, CT",metro
-birmingham_al,"Birmingham, AL",metro
-rochester_ny,"Rochester, NY",metro
-tucson_az,"Tucson, AZ",metro
-salt_lake_city_ut,"Salt Lake City, UT",metro
-grand_rapids_mi,"Grand Rapids, MI",metro
-tulsa_ok,"Tulsa, OK",metro
-albany_ny,"Albany, NY",metro
-albuquerque_nm,"Albuquerque, NM",metro
-omaha_ne,"Omaha, NE",metro
-worcester_ma,"Worcester, MA",metro
-knoxville_tn,"Knoxville, TN",metro
-bridgeport_ct,"Bridgeport, CT",metro
-greenville_sc,"Greenville, SC",metro
-north_port_fl,"North Port, FL",metro
-new_haven_ct,"New Haven, CT",metro
-dayton_oh,"Dayton, OH",metro
-honolulu_hi,"Urban Honolulu, HI",metro
-allentown_pa,"Allentown, PA",metro
-columbia_sc,"Columbia, SC",metro
-baton_rouge_la,"Baton Rouge, LA",metro
-greensboro_nc,"Greensboro, NC",metro
-fresno_ca,"Fresno, CA",metro
-charleston_sc,"Charleston, SC",metro
-little_rock_ar,"Little Rock, AR",metro
-cape_coral_fl,"Cape Coral, FL",metro
-akron_oh,"Akron, OH",metro
-el_paso_tx,"El Paso, TX",metro
-oxnard_ca,"Oxnard, CA",metro
-colorado_springs_co,"Colorado Springs, CO",metro
-madison_wi,"Madison, WI",metro
-bakersfield_ca,"Bakersfield, CA",metro
-winston_salem_nc,"Winston, NC",metro
-syracuse_ny,"Syracuse, NY",metro
-deltona_fl,"Deltona, FL",metro
-boise_city_id,"Boise City, ID",metro
-wichita_ks,"Wichita, KS",metro
-toledo_oh,"Toledo, OH",metro
-des_moines_ia,"Des Moines, IA",metro
-springfield_ma,"Springfield, MA",metro
-lakeland_fl,"Lakeland, FL",metro
-palm_bay_fl,"Palm Bay, FL",metro
-mcallen_tx,"McAllen, TX",metro
-harrisburg_pa,"Harrisburg, PA",metro
-scranton_pa,"Scranton, PA",metro
-augusta_ga,"Augusta, GA",metro
-youngstown_oh,"Youngstown, OH",metro
-stockton_ca,"Stockton, CA",metro
-durham_nc,"Durham, NC",metro
-portland_me,"Portland, ME",metro
-spokane_wa,"Spokane, WA",metro
-chattanooga_tn,"Chattanooga, TN",metro
-jackson_ms,"Jackson, MS",metro
-ogden_ut,"Ogden, UT",metro
-lexington_ky,"Lexington, KY",metro
-lancaster_pa,"Lancaster, PA",metro
-santa_rosa_ca,"Santa Rosa, CA",metro
-fayetteville_ar,"Fayetteville, AR",metro
-asheville_nc,"Asheville, NC",metro
-lafayette_la,"Lafayette, LA",metro
-lansing_mi,"Lansing, MI",metro
-pensacola_fl,"Pensacola, FL",metro
-springfield_mo,"Springfield, MO",metro
-myrtle_beach_sc,"Myrtle Beach, SC",metro
-port_st_lucie_fl,"Port St. Lucie, FL",metro
-huntsville_al,"Huntsville, AL",metro
-shreveport_la,"Shreveport, LA",metro
-reno_nv,"Reno, NV",metro
-modesto_ca,"Modesto, CA",metro
-york_pa,"York, PA",metro
-corpus_christi_tx,"Corpus Christi, TX",metro
-fort_wayne_in,"Fort Wayne, IN",metro
-canton_oh,"Canton, OH",metro
-flint_mi,"Flint, MI",metro
-provo_ut,"Provo, UT",metro
-mobile_al,"Mobile, AL",metro
-manchester_nh,"Manchester, NH",metro
-davenport_ia,"Davenport, IA",metro
-salisbury_md,"Salisbury, MD",metro
-killeen_tx,"Killeen, TX",metro
-reading_pa,"Reading, PA",metro
-beaumont_tx,"Beaumont, TX",metro
-peoria_il,"Peoria, IL",metro
-vallejo_ca,"Vallejo, CA",metro
-eugene_or,"Eugene, OR",metro
-gulfport_ms,"Gulfport, MS",metro
-fayetteville_nc,"Fayetteville, NC",metro
-tallahassee_fl,"Tallahassee, FL",metro
-santa_maria_ca,"Santa Maria, CA",metro
-naples_fl,"Naples, FL",metro
-huntington_wv,"Huntington, WV",metro
-salem_or,"Salem, OR",metro
-anchorage_ak,"Anchorage, AK",metro
-savannah_ga,"Savannah, GA",metro
-ann_arbor_mi,"Ann Arbor, MI",metro
-hickory_nc,"Hickory, NC",metro
-ocala_fl,"Ocala, FL",metro
-montgomery_al,"Montgomery, AL",metro
-visalia_ca,"Visalia, CA",metro
-fort_collins_co,"Fort Collins, CO",metro
-trenton_nj,"Trenton, NJ",metro
-kalamazoo_mi,"Kalamazoo, MI",metro
-salinas_ca,"Salinas, CA",metro
-roanoke_va,"Roanoke, VA",metro
-boulder_co,"Boulder, CO",metro
-kingsport_tn,"Kingsport, TN",metro
-rockford_il,"Rockford, IL",metro
-lincoln_ne,"Lincoln, NE",metro
-evansville_in,"Evansville, IN",metro
-green_bay_wi,"Green Bay, WI",metro
-brownsville_tx,"Brownsville, TX",metro
-spartanburg_sc,"Spartanburg, SC",metro
-south_bend_in,"South Bend, IN",metro
-columbus_ga,"Columbus, GA",metro
-utica_ny,"Utica, NY",metro
-duluth_mn,"Duluth, MN",metro
-lubbock_tx,"Lubbock, TX",metro
-wilmington_nc,"Wilmington, NC",metro
-gainesville_fl,"Gainesville, FL",metro
-erie_pa,"Erie, PA",metro
-olympia_wa,"Olympia, WA",metro
-cedar_rapids_ia,"Cedar Rapids, IA",metro
-fort_smith_ar,"Fort Smith, AR",metro
-crestview_fl,"Crestview, FL",metro
-norwich_ct,"Norwich, CT",metro
-san_luis_obispo_ca,"San Luis Obispo, CA",metro
-clarksville_tn,"Clarksville, TN",metro
-lynchburg_va,"Lynchburg, VA",metro
-atlantic_city_nj,"Atlantic City, NJ",metro
-greeley_co,"Greeley, CO",metro
-bremerton_wa,"Bremerton, WA",metro
-sioux_falls_sd,"Sioux Falls, SD",metro
-binghamton_ny,"Binghamton, NY",metro
-amarillo_tx,"Amarillo, TX",metro
-santa_cruz_ca,"Santa Cruz, CA",metro
-hagerstown_md,"Hagerstown, MD",metro
-fargo_nd,"Fargo, ND",metro
-kennewick_wa,"Kennewick, WA",metro
-waco_tx,"Waco, TX",metro
-champaign_il,"Champaign, IL",metro
-prescott_az,"Prescott Valley, AZ",metro
-barnstable_town_ma,"Barnstable Town, MA",metro
-charleston_wv,"Charleston, WV",metro
-tuscaloosa_al,"Tuscaloosa, AL",metro
-topeka_ks,"Topeka, KS",metro
-college_station_tx,"College Station, TX",metro
-appleton_wi,"Appleton, WI",metro
-claremont_nh,"Lebanon, NH",metro
-chico_ca,"Chico, CA",metro
-charlottesville_va,"Charlottesville, VA",metro
-springfield_il,"Springfield, IL",metro
-macon_ga,"Macon, GA",metro
-medford_or,"Medford, OR",metro
-burlington_vt,"Burlington, VT",metro
-rochester_mn,"Rochester, MN",metro
-bellingham_wa,"Bellingham, WA",metro
-johnson_city_tn,"Johnson City, TN",metro
-tyler_tx,"Tyler, TX",metro
-hilton_head_island_sc,"Hilton Head Island, SC",metro
-lake_havasu_city_az,"Lake Havasu City, AZ",metro
-daphne_al,"Daphne, AL",metro
-yakima_wa,"Yakima, WA",metro
-lafayette_in,"Lafayette, IN",metro
-longview_tx,"Longview, TX",metro
-florence_sc,"Florence, SC",metro
-lake_charles_la,"Lake Charles, LA",metro
-punta_gorda_fl,"Punta Gorda, FL",metro
-panama_city_fl,"Panama City, FL",metro
-merced_ca,"Merced, CA",metro
-las_cruces_nm,"Las Cruces, NM",metro
-houma_la,"Houma, LA",metro
-saginaw_mi,"Saginaw, MI",metro
-racine_wi,"Racine, WI",metro
-athens_ga,"Athens, GA",metro
-torrington_ct,"Torrington, CT",metro
-st_cloud_mn,"St. Cloud, MN",metro
-bloomington_il,"Bloomington, IL",metro
-laredo_tx,"Laredo, TX",metro
-hilo_hi,"Hilo, HI",metro
-redding_ca,"Redding, CA",metro
-elkhart_in,"Elkhart, IN",metro
-warner_robins_ga,"Warner Robins, GA",metro
-blacksburg_va,"Blacksburg, VA",metro
-greenville_nc,"Greenville, NC",metro
-bend_or,"Bend, OR",metro
-billings_mt,"Billings, MT",metro
-kingston_ny,"Kingston, NY",metro
-oshkosh_wi,"Oshkosh, WI",metro
-monroe_la,"Monroe, LA",metro
-columbia_mo,"Columbia, MO",metro
-waterloo_ia,"Waterloo, IA",metro
-jacksonville_nc,"Jacksonville, NC",metro
-iowa_city_ia,"Iowa City, IA",metro
-joplin_mo,"Joplin, MO",metro
-eau_claire_wi,"Eau Claire, WI",metro
-muskegon_mi,"Muskegon, MI",metro
-bloomington_in,"Bloomington, IN",metro
-yuma_az,"Yuma, AZ",metro
-gainesville_ga,"Gainesville, GA",metro
-terre_haute_in,"Terre Haute, IN",metro
-santa_fe_nm,"Santa Fe, NM",metro
-bowling_green_ky,"Bowling Green, KY",metro
-pueblo_co,"Pueblo, CO",metro
-dover_de,"Dover, DE",metro
-abilene_tx,"Abilene, TX",metro
-sioux_city_ia,"Sioux City, IA",metro
-sebastian_fl,"Sebastian, FL",metro
-janesville_wi,"Janesville, WI",metro
-homosassa_springs_fl,"Homosassa Springs, FL",metro
-bangor_me,"Bangor, ME",metro
-auburn_al,"Auburn, AL",metro
-niles_mi,"Niles, MI",metro
-midland_tx,"Midland, TX",metro
-traverse_city_mi,"Traverse City, MI",metro
-burlington_nc,"Burlington, NC",metro
-florence_al,"Florence, AL",metro
-jackson_mi,"Jackson, MI",metro
-rapid_city_sd,"Rapid City, SD",metro
-decatur_al,"Decatur, AL",metro
-wheeling_wv,"Wheeling, WV",metro
-ottawa_il,"Ottawa, IL",metro
-dothan_al,"Dothan, AL",metro
-state_college_pa,"State College, PA",metro
-chambersburg_pa,"Chambersburg, PA",metro
-coeur_dalene_id,"Coeur d'Alene, ID",metro
-east_stroudsburg_pa,"East Stroudsburg, PA",metro
-rocky_mount_nc,"Rocky Mount, NC",metro
-grand_junction_co,"Grand Junction, CO",metro
-kahului_hi,"Kahului, HI",metro
-alexandria_la,"Alexandria, LA",metro
-pottsville_pa,"Pottsville, PA",metro
-albany_ga,"Albany, GA",metro
-hattiesburg_ms,"Hattiesburg, MS",metro
-jefferson_city_mo,"Jefferson City, MO",metro
-monroe_mi,"Monroe, MI",metro
-elizabethtown_ky,"Elizabethtown, KY",metro
-concord_nh,"Concord, NH",metro
-texarkana_tx,"Texarkana, TX",metro
-wichita_falls_tx,"Wichita Falls, TX",metro
-morgantown_wv,"Morgantown, WV",metro
-the_villages_fl,"The Villages, FL",metro
-eureka_ca,"Eureka, CA",metro
-johnstown_pa,"Johnstown, PA",metro
-yuba_city_ca,"Yuba City, CA",metro
-odessa_tx,"Odessa, TX",metro
-la_crosse_wi,"La Crosse, WI",metro
-pittsfield_ma,"Pittsfield, MA",metro
-wausau_wi,"Wausau, WI",metro
-bismarck_nd,"Bismarck, ND",metro
-springfield_oh,"Springfield, OH",metro
-battle_creek_mi,"Battle Creek, MI",metro
-lebanon_pa,"Lebanon, PA",metro
-tupelo_ms,"Tupelo, MS",metro
-jamestown_ny,"Jamestown, NY",metro
-st_george_ut,"St. George, UT",metro
-carbondale_il,"Carbondale, IL",metro
-valdosta_ga,"Valdosta, GA",metro
-el_centro_ca,"El Centro, CA",metro
-altoona_pa,"Altoona, PA",metro
-glens_falls_ny,"Glens Falls, NY",metro
-vineland_nj,"Vineland, NJ",metro
-winchester_va,"Winchester, VA",metro
-augusta_me,"Augusta, ME",metro
-weirton_wv,"Weirton, WV",metro
-napa_ca,"Napa, CA",metro
-new_bern_nc,"New Bern, NC",metro
-jackson_tn,"Jackson, TN",metro
-london_ky,"London, KY",metro
-beckley_wv,"Beckley, WV",metro
-jonesboro_ar,"Jonesboro, AR",metro
-goldsboro_nc,"Goldsboro, NC",metro
-sierra_vista_az,"Sierra Vista, AZ",metro
-staunton_va,"Staunton, VA",metro
-dalton_ga,"Dalton, GA",metro
-missoula_mt,"Missoula, MT",metro
-hammond_la,"Hammond, LA",metro
-flagstaff_az,"Flagstaff, AZ",metro
-lawton_ok,"Lawton, OK",metro
-sherman_tx,"Sherman, TX",metro
-idaho_falls_id,"Idaho Falls, ID",metro
-lumberton_nc,"Lumberton, NC",metro
-mount_vernon_wa,"Mount Vernon, WA",metro
-harrisonburg_va,"Harrisonburg, VA",metro
-mansfield_oh,"Mansfield, OH",metro
-st_joseph_mo,"St. Joseph, MO",metro
-williamsport_pa,"Williamsport, PA",metro
-lawrence_ks,"Lawrence, KS",metro
-sheboygan_wi,"Sheboygan, WI",metro
-albany_or,"Albany, OR",metro
-owensboro_ky,"Owensboro, KY",metro
-dunn_nc,"Dunn, NC",metro
-cleveland_tn,"Cleveland, TN",metro
-san_angelo_tx,"San Angelo, TX",metro
-muncie_in,"Muncie, IN",metro
-brunswick_ga,"Brunswick, GA",metro
-anniston_al,"Anniston, AL",metro
-roseburg_or,"Roseburg, OR",metro
-morristown_tn,"Morristown, TN",metro
-watertown_ny,"Watertown, NY",metro
-madera_ca,"Madera, CA",metro
-danville_va,"Danville, VA",metro
-decatur_il,"Decatur, IL",metro
-lewiston_me,"Lewiston, ME",metro
-bluefield_wv,"Bluefield, WV",metro
-bay_city_mi,"Bay City, MI",metro
-holland_mi,"Holland, MI",metro
-wenatchee_wa,"Wenatchee, WA",metro
-cookeville_tn,"Cookeville, TN",metro
-wooster_oh,"Wooster, OH",metro
-sebring_fl,"Sebring, FL",metro
-grand_forks_nd,"Grand Forks, ND",metro
-truckee_ca,"Truckee, CA",metro
-michigan_city_in,"Michigan City, IN",metro
-salem_oh,"Salem, OH",metro
-bozeman_mt,"Bozeman, MT",metro
-logan_ut,"Logan, UT",metro
-farmington_nm,"Farmington, NM",metro
-hot_springs_ar,"Hot Springs, AR",metro
-hanford_ca,"Hanford, CA",metro
-paducah_ky,"Paducah, KY",metro
-fond_du_lac_wi,"Fond du Lac, WI",metro
-gadsden_al,"Gadsden, AL",metro
-ogdensburg_ny,"Ogdensburg, NY",metro
-sumter_sc,"Sumter, SC",metro
-ithaca_ny,"Ithaca, NY",metro
-meridian_ms,"Meridian, MS",metro
-longview_wa,"Longview, WA",metro
-richmond_ky,"Richmond, KY",metro
-pinehurst_nc,"Pinehurst, NC",metro
-kalispell_mt,"Kalispell, MT",metro
-whitewater_wi,"Whitewater, WI",metro
-kankakee_il,"Kankakee, IL",metro
-cheyenne_wy,"Cheyenne, WY",metro
-corning_ny,"Corning, NY",metro
-tullahoma_tn,"Tullahoma, TN",metro
-lima_oh,"Lima, OH",metro
-california_md,"California, MD",metro
-ocean_city_nj,"Ocean City, NJ",metro
-cumberland_md,"Cumberland, MD",metro
-cape_girardeau_mo,"Cape Girardeau, MO",metro
-parkersburg_wv,"Parkersburg, WV",metro
-brainerd_mn,"Brainerd, MN",metro
-sunbury_pa,"Sunbury, PA",metro
-dubuque_ia,"Dubuque, IA",metro
-clarksburg_wv,"Clarksburg, WV",metro
-gettysburg_pa,"Gettysburg, PA",metro
-twin_falls_id,"Twin Falls, ID",metro
-shelby_nc,"Shelby, NC",metro
-ashtabula_oh,"Ashtabula, OH",metro
-mankato_mn,"Mankato, MN",metro
-sevierville_tn,"Sevierville, TN",metro
-victoria_tx,"Victoria, TX",metro
-adrian_mi,"Adrian, MI",metro
-greenwood_sc,"Greenwood, SC",metro
-new_philadelphia_oh,"New Philadelphia, OH",metro
-fairbanks_ak,"Fairbanks, AK",metro
-show_low_az,"Show Low, AZ",metro
-ames_ia,"Ames, IA",metro
-new_castle_pa,"New Castle, PA",metro
-albertville_al,"Albertville, AL",metro
-corvallis_or,"Corvallis, OR",metro
-manhattan_ks,"Manhattan, KS",metro
-talladega_al,"Talladega, AL",metro
-ukiah_ca,"Ukiah, CA",metro
-grants_pass_or,"Grants Pass, OR",metro
-rome_ga,"Rome, GA",metro
-branson_mo,"Branson, MO",metro
-elmira_ny,"Elmira, NY",metro
-key_west_fl,"Key West, FL",metro
-orangeburg_sc,"Orangeburg, SC",metro
-great_falls_mt,"Great Falls, MT",metro
-zanesville_oh,"Zanesville, OH",metro
-kokomo_in,"Kokomo, IN",metro
-meadville_pa,"Meadville, PA",metro
-indiana_pa,"Indiana, PA",metro
-bloomsburg_pa,"Bloomsburg, PA",metro
-beaver_dam_wi,"Beaver Dam, WI",metro
-pine_bluff_ar,"Pine Bluff, AR",metro
-oak_harbor_wa,"Oak Harbor, WA",metro
-manitowoc_wi,"Manitowoc, WI",metro
-casper_wy,"Casper, WY",metro
-midland_mi,"Midland, MI",metro
-minot_nd,"Minot, ND",metro
-helena_mt,"Helena, MT",metro
-grand_island_ne,"Grand Island, NE",metro
-watertown_wi,"Watertown, WI",metro
-port_angeles_wa,"Port Angeles, WA",metro
-opelousas_la,"Opelousas, LA",metro
-cullman_al,"Cullman, AL",metro
-russellville_ar,"Russellville, AR",metro
-wilson_nc,"Wilson, NC",metro
-laurel_ms,"Laurel, MS",metro
-moses_lake_wa,"Moses Lake, WA",metro
-plattsburgh_ny,"Plattsburgh, NY",metro
-dubois_pa,"DuBois, PA",metro
-lufkin_tx,"Lufkin, TX",metro
-olean_ny,"Olean, NY",metro
-stillwater_ok,"Stillwater, OK",metro
-athens_tx,"Athens, TX",metro
-wisconsin_rapids_wi,"Wisconsin Rapids, WI",metro
-columbus_in,"Columbus, IN",metro
-danville_il,"Danville, IL",metro
-sandusky_oh,"Sandusky, OH",metro
-hermiston_or,"Hermiston, OR",metro
-quincy_il,"Quincy, IL",metro
-auburn_ny,"Auburn, NY",metro
-seneca_sc,"Seneca, SC",metro
-pocatello_id,"Pocatello, ID",metro
-findlay_oh,"Findlay, OH",metro
-morehead_city_nc,"Morehead City, NC",metro
-greenfield_town_ma,"Greenfield Town, MA",metro
-somerset_pa,"Somerset, PA",metro
-keene_nh,"Keene, NH",metro
-centralia_wa,"Centralia, WA",metro
-warsaw_in,"Warsaw, IN",metro
-roanoke_rapids_nc,"Roanoke Rapids, NC",metro
-searcy_ar,"Searcy, AR",metro
-frankfort_ky,"Frankfort, KY",metro
-hinesville_ga,"Hinesville, GA",metro
-portsmouth_oh,"Portsmouth, OH",metro
-mount_airy_nc,"Mount Airy, NC",metro
-glenwood_springs_co,"Glenwood Springs, CO",metro
-chillicothe_oh,"Chillicothe, OH",metro
-marinette_wi,"Marinette, WI",metro
-martinsville_va,"Martinsville, VA",metro
-stevens_point_wi,"Stevens Point, WI",metro
-palatka_fl,"Palatka, FL",metro
-marquette_mi,"Marquette, MI",metro
-north_wilkesboro_nc,"North Wilkesboro, NC",metro
-aberdeen_wa,"Aberdeen, WA",metro
-greeneville_tn,"Greeneville, TN",metro
-huntsville_tx,"Huntsville, TX",metro
-klamath_falls_or,"Klamath Falls, OR",metro
-shawnee_ok,"Shawnee, OK",metro
-coos_bay_or,"Coos Bay, OR",metro
-forest_city_nc,"Forest City, NC",metro
-owosso_mi,"Owosso, MI",metro
-richmond_in,"Richmond, IN",metro
-marion_in,"Marion, IN",metro
-muskogee_ok,"Muskogee, OK",metro
-lewiston_id,"Lewiston, ID",metro
-clearlake_ca,"Clearlake, CA",metro
-baraboo_wi,"Baraboo, WI",metro
-somerset_ky,"Somerset, KY",metro
-mount_pleasant_mi,"Mount Pleasant, MI",metro
-lagrange_ga,"LaGrange, GA",metro
-statesboro_ga,"Statesboro, GA",metro
-hudson_ny,"Hudson, NY",metro
-marietta_oh,"Marietta, OH",metro
-enid_ok,"Enid, OK",metro
-rutland_vt,"Rutland, VT",metro
-hutchinson_ks,"Hutchinson, KS",metro
-charleston_il,"Charleston, IL",metro
-georgetown_sc,"Georgetown, SC",metro
-lake_city_fl,"Lake City, FL",metro
-fort_madison_ia,"Fort Madison, IA",metro
-alamogordo_nm,"Alamogordo, NM",metro
-marshall_tx,"Marshall, TX",metro
-laconia_nh,"Laconia, NH",metro
-crossville_tn,"Crossville, TN",metro
-barre_vt,"Barre, VT",metro
-sayre_pa,"Sayre, PA",metro
-salina_ks,"Salina, KS",metro
-kapaa_hi,"Kapaa, HI",metro
-fergus_falls_mn,"Fergus Falls, MN",metro
-hobbs_nm,"Hobbs, NM",metro
-nacogdoches_tx,"Nacogdoches, TX",metro
-walla_walla_wa,"Walla Walla, WA",metro
-shelton_wa,"Shelton, WA",metro
-oneonta_ny,"Oneonta, NY",metro
-farmington_mo,"Farmington, MO",metro
-elizabeth_city_nc,"Elizabeth City, NC",metro
-fremont_oh,"Fremont, OH",metro
-fairmont_wv,"Fairmont, WV",metro
-marion_oh,"Marion, OH",metro
-kinston_nc,"Kinston, NC",metro
-athens_oh,"Athens, OH",metro
-columbus_ms,"Columbus, MS",metro
-albemarle_nc,"Albemarle, NC",metro
-red_bluff_ca,"Red Bluff, CA",metro
-roswell_nm,"Roswell, NM",metro
-batavia_ny,"Batavia, NY",metro
-big_stone_gap_va,"Big Stone Gap, VA",metro
-gallup_nm,"Gallup, NM",metro
-sturgis_mi,"Sturgis, MI",metro
-faribault_mn,"Faribault, MN",metro
-sterling_il,"Sterling, IL",metro
-sanford_nc,"Sanford, NC",metro
-durango_co,"Durango, CO",metro
-mount_vernon_oh,"Mount Vernon, OH",metro
-point_pleasant_wv,"Point Pleasant, WV",metro
-ionia_mi,"Ionia, MI",metro
-norwalk_oh,"Norwalk, OH",metro
-mason_city_ia,"Mason City, IA",metro
-payson_az,"Payson, AZ",metro
-kearney_ne,"Kearney, NE",metro
-oil_city_pa,"Oil City, PA",metro
-sonora_ca,"Sonora, CA",metro
-carlsbad_nm,"Carlsbad, NM",metro
-gloversville_ny,"Gloversville, NY",metro
-jefferson_ga,"Jefferson, GA",metro
-vicksburg_ms,"Vicksburg, MS",metro
-gaffney_sc,"Gaffney, SC",metro
-jasper_in,"Jasper, IN",metro
-dublin_ga,"Dublin, GA",metro
-bartlesville_ok,"Bartlesville, OK",metro
-oxford_nc,"Oxford, NC",metro
-glasgow_ky,"Glasgow, KY",metro
-carson_city_nv,"Carson City, NV",metro
-tiffin_oh,"Tiffin, OH",metro
-kerrville_tx,"Kerrville, TX",metro
-galesburg_il,"Galesburg, IL",metro
-scottsboro_al,"Scottsboro, AL",metro
-newport_or,"Newport, OR",metro
-boone_nc,"Boone, NC",metro
-oxford_ms,"Oxford, MS",metro
-danville_ky,"Danville, KY",metro
-athens_tn,"Athens, TN",metro
-greenville_oh,"Greenville, OH",metro
-picayune_ms,"Picayune, MS",metro
-gardnerville_ranchos_nv,"Gardnerville Ranchos, NV",metro
-waycross_ga,"Waycross, GA",metro
-elko_nv,"Elko, NV",metro
-rochelle_il,"Rochelle, IL",metro
-mccomb_ms,"McComb, MS",metro
-ashland_oh,"Ashland, OH",metro
-enterprise_al,"Enterprise, AL",metro
-warrensburg_mo,"Warrensburg, MO",metro
-burlington_ia,"Burlington, IA",metro
-washington_nc,"Washington, NC",metro
-fernley_nv,"Fernley, NV",metro
-morgan_city_la,"Morgan City, LA",metro
-amsterdam_ny,"Amsterdam, NY",metro
-paris_tx,"Paris, TX",metro
-calhoun_ga,"Calhoun, GA",metro
-natchez_ms,"Natchez, MS",metro
-starkville_ms,"Starkville, MS",metro
-clinton_ia,"Clinton, IA",metro
-ozark_al,"Ozark, AL",metro
-platteville_wi,"Platteville, WI",metro
-edwards_co,"Edwards, CO",metro
-norfolk_ne,"Norfolk, NE",metro
-winona_mn,"Winona, MN",metro
-milledgeville_ga,"Milledgeville, GA",metro
-freeport_il,"Freeport, IL",metro
-cadillac_mi,"Cadillac, MI",metro
-red_wing_mn,"Red Wing, MN",metro
-malone_ny,"Malone, NY",metro
-st_marys_ga,"St. Marys, GA",metro
-ardmore_ok,"Ardmore, OK",metro
-fort_polk_south_la,"Fort Polk South, LA",metro
-clovis_nm,"Clovis, NM",metro
-pullman_wa,"Pullman, WA",metro
-ontario_or,"Ontario, OR",metro
-lewistown_pa,"Lewistown, PA",metro
-madisonville_ky,"Madisonville, KY",metro
-shawano_wi,"Shawano, WI",metro
-bedford_in,"Bedford, IN",metro
-harrison_ar,"Harrison, AR",metro
-new_castle_in,"New Castle, IN",metro
-tahlequah_ok,"Tahlequah, OK",metro
-cortland_ny,"Cortland, NY",metro
-mountain_home_ar,"Mountain Home, AR",metro
-gillette_wy,"Gillette, WY",metro
-aberdeen_sd,"Aberdeen, SD",metro
-sidney_oh,"Sidney, OH",metro
-ruston_la,"Ruston, LA",metro
-mount_sterling_ky,"Mount Sterling, KY",metro
-wapakoneta_oh,"Wapakoneta, OH",metro
-rio_grande_city_tx,"Rio Grande City, TX",metro
-rockingham_nc,"Rockingham, NC",metro
-ponca_city_ok,"Ponca City, OK",metro
-greenville_ms,"Greenville, MS",metro
-sandpoint_id,"Sandpoint, ID",metro
-bellefontaine_oh,"Bellefontaine, OH",metro
-durant_ok,"Durant, OK",metro
-jacksonville_tx,"Jacksonville, TX",metro
-marion_nc,"Marion, NC",metro
-thomasville_ga,"Thomasville, GA",metro
-bemidji_mn,"Bemidji, MN",metro
-bogalusa_la,"Bogalusa, LA",metro
-bardstown_ky,"Bardstown, KY",metro
-ellensburg_wa,"Ellensburg, WA",metro
-poplar_bluff_mo,"Poplar Bluff, MO",metro
-duncan_ok,"Duncan, OK",metro
-port_clinton_oh,"Port Clinton, OH",metro
-pahrump_nv,"Pahrump, NV",metro
-bucyrus_oh,"Bucyrus, OH",metro
-corsicana_tx,"Corsicana, TX",metro
-kendallville_in,"Kendallville, IN",metro
-plymouth_in,"Plymouth, IN",metro
-hillsdale_mi,"Hillsdale, MI",metro
-ottumwa_ia,"Ottumwa, IA",metro
-warren_pa,"Warren, PA",metro
-shelbyville_tn,"Shelbyville, TN",metro
-rolla_mo,"Rolla, MO",metro
-mcalester_ok,"McAlester, OK",metro
-seymour_in,"Seymour, IN",metro
-paragould_ar,"Paragould, AR",metro
-henderson_nc,"Henderson, NC",metro
-huntingdon_pa,"Huntingdon, PA",metro
-palestine_tx,"Palestine, TX",metro
-cullowhee_nc,"Cullowhee, NC",metro
-rock_springs_wy,"Rock Springs, WY",metro
-menomonie_wi,"Menomonie, WI",metro
-willmar_mn,"Willmar, MN",metro
-canon_city_co,"CaÃ±on City, CO",metro
-eagle_pass_tx,"Eagle Pass, TX",metro
-bradford_pa,"Bradford, PA",metro
-laramie_wy,"Laramie, WY",metro
-blytheville_ar,"Blytheville, AR",metro
-kill_devil_hills_nc,"Kill Devil Hills, NC",metro
-berlin_nh,"Berlin, NH",metro
-fort_leonard_wood_mo,"Fort Leonard Wood, MO",metro
-muscatine_ia,"Muscatine, IA",metro
-lawrenceburg_tn,"Lawrenceburg, TN",metro
-montrose_co,"Montrose, CO",metro
-big_rapids_mi,"Big Rapids, MI",metro
-sedalia_mo,"Sedalia, MO",metro
-moultrie_ga,"Moultrie, GA",metro
-el_dorado_ar,"El Dorado, AR",metro
-wilmington_oh,"Wilmington, OH",metro
-astoria_or,"Astoria, OR",metro
-coldwater_mi,"Coldwater, MI",metro
-del_rio_tx,"Del Rio, TX",metro
-cambridge_oh,"Cambridge, OH",metro
-auburn_in,"Auburn, IN",metro
-west_plains_mo,"West Plains, MO",metro
-jacksonville_il,"Jacksonville, IL",metro
-murray_ky,"Murray, KY",metro
-selma_al,"Selma, AL",metro
-easton_md,"Easton, MD",metro
-alexandria_mn,"Alexandria, MN",metro
-escanaba_mi,"Escanaba, MI",metro
-mcminnville_tn,"McMinnville, TN",metro
-austin_mn,"Austin, MN",metro
-celina_oh,"Celina, OH",metro
-cedar_city_ut,"Cedar City, UT",metro
-centralia_il,"Centralia, IL",metro
-espa_nm,"EspaÂ±ola, NM",metro
-pittsburg_ks,"Pittsburg, KS",metro
-riverton_wy,"Riverton, WY",metro
-natchitoches_la,"Natchitoches, LA",metro
-hannibal_mo,"Hannibal, MO",metro
-cornelia_ga,"Cornelia, GA",metro
-scottsbluff_ne,"Scottsbluff, NE",metro
-butte_mt,"Butte, MT",metro
-sikeston_mo,"Sikeston, MO",metro
-greenwood_ms,"Greenwood, MS",metro
-marshalltown_ia,"Marshalltown, IA",metro
-moscow_id,"Moscow, ID",metro
-north_platte_ne,"North Platte, NE",metro
-rexburg_id,"Rexburg, ID",metro
-burley_id,"Burley, ID",metro
-lock_haven_pa,"Lock Haven, PA",metro
-bennington_vt,"Bennington, VT",metro
-mount_vernon_il,"Mount Vernon, IL",metro
-nogales_az,"Nogales, AZ",metro
-el_campo_tx,"El Campo, TX",metro
-taos_nm,"Taos, NM",metro
-mayfield_ky,"Mayfield, KY",metro
-stephenville_tx,"Stephenville, TX",metro
-union_city_tn,"Union City, TN",metro
-tifton_ga,"Tifton, GA",metro
-selinsgrove_pa,"Selinsgrove, PA",metro
-defiance_oh,"Defiance, OH",metro
-vincennes_in,"Vincennes, IN",metro
-lewisburg_pa,"Lewisburg, PA",metro
-crawfordsville_in,"Crawfordsville, IN",metro
-fremont_ne,"Fremont, NE",metro
-houghton_mi,"Houghton, MI",metro
-blackfoot_id,"Blackfoot, ID",metro
-corinth_ms,"Corinth, MS",metro
-newberry_sc,"Newberry, SC",metro
-dyersburg_tn,"Dyersburg, TN",metro
-williston_nd,"Williston, ND",metro
-newton_ia,"Newton, IA",metro
-ada_ok,"Ada, OK",metro
-gainesville_tx,"Gainesville, TX",metro
-cedartown_ga,"Cedartown, GA",metro
-urbana_oh,"Urbana, OH",metro
-douglas_ga,"Douglas, GA",metro
-brownwood_tx,"Brownwood, TX",metro
-newport_tn,"Newport, TN",metro
-alma_mi,"Alma, MI",metro
-brevard_nc,"Brevard, NC",metro
-alice_tx,"Alice, TX",metro
-logansport_in,"Logansport, IN",metro
-batesville_ar,"Batesville, AR",metro
-coshocton_oh,"Coshocton, OH",metro
-summit_park_ut,"Summit Park, UT",metro
-owatonna_mn,"Owatonna, MN",metro
-hutchinson_mn,"Hutchinson, MN",metro
-dickinson_nd,"Dickinson, ND",metro
-sault_ste_marie_mi,"Sault Ste. Marie, MI",metro
-pontiac_il,"Pontiac, IL",metro
-bay_city_tx,"Bay City, TX",metro
-garden_city_ks,"Garden City, KS",metro
-logan_wv,"Logan, WV",metro
-huntington_in,"Huntington, IN",metro
-lebanon_mo,"Lebanon, MO",metro
-valley_al,"Valley, AL",metro
-canton_il,"Canton, IL",metro
-okeechobee_fl,"Okeechobee, FL",metro
-jackson_wy,"Jackson, WY",metro
-effingham_il,"Effingham, IL",metro
-sulphur_springs_tx,"Sulphur Springs, TX",metro
-arkansas_city_ks,"Winfield, KS",metro
-brenham_tx,"Brenham, TX",metro
-vidalia_ga,"Vidalia, GA",metro
-taylorville_il,"Taylorville, IL",metro
-coffeyville_ks,"Coffeyville, KS",metro
-martin_tn,"Martin, TN",metro
-paris_tn,"Paris, TN",metro
-junction_city_ks,"Junction City, KS",metro
-americus_ga,"Americus, GA",metro
-angola_in,"Angola, IN",metro
-iron_mountain_mi,"Iron Mountain, MI",metro
-cambridge_md,"Cambridge, MD",metro
-deridder_la,"DeRidder, LA",metro
-troy_al,"Troy, AL",metro
-brookhaven_ms,"Brookhaven, MS",metro
-laurinburg_nc,"Laurinburg, NC",metro
-seneca_falls_ny,"Seneca Falls, NY",metro
-dixon_il,"Dixon, IL",metro
-emporia_ks,"Emporia, KS",metro
-albert_lea_mn,"Albert Lea, MN",metro
-columbus_ne,"Columbus, NE",metro
-peru_in,"Peru, IN",metro
-sheridan_wy,"Sheridan, WY",metro
-juneau_ak,"Juneau, AK",metro
-brookings_sd,"Brookings, SD",metro
-breckenridge_co,"Breckenridge, CO",metro
-jackson_oh,"Jackson, OH",metro
-madison_in,"Madison, IN",metro
-alpena_mi,"Alpena, MI",metro
-macomb_il,"Macomb, IL",metro
-malvern_ar,"Malvern, AR",metro
-camden_ar,"Camden, AR",metro
-hastings_ne,"Hastings, NE",metro
-dayton_tn,"Dayton, TN",metro
-silver_city_nm,"Silver City, NM",metro
-big_spring_tx,"Big Spring, TX",metro
-wabash_in,"Wabash, IN",metro
-vernal_ut,"Vernal, UT",metro
-kennett_mo,"Kennett, MO",metro
-miami_ok,"Miami, OK",metro
-clewiston_fl,"Clewiston, FL",metro
-hays_ks,"Hays, KS",metro
-lewisburg_tn,"Lewisburg, TN",metro
-decatur_in,"Decatur, IN",metro
-ludington_mi,"Ludington, MI",metro
-watertown_sd,"Watertown, SD",metro
-merrill_wi,"Merrill, WI",metro
-mcpherson_ks,"McPherson, KS",metro
-weatherford_ok,"Weatherford, OK",metro
-elkins_wv,"Elkins, WV",metro
-washington_in,"Washington, IN",metro
-frankfort_in,"Frankfort, IN",metro
-safford_az,"Safford, AZ",metro
-kirksville_mo,"Kirksville, MO",metro
-arcadia_fl,"Arcadia, FL",metro
-las_vegas_nm,"Las Vegas, NM",metro
-kingsville_tx,"Kingsville, TX",metro
-middlesborough_ky,"Middlesborough, KY",metro
-dodge_city_ks,"Dodge City, KS",metro
-washington_court_house_oh,"Washington Court House, OH",metro
-van_wert_oh,"Van Wert, OH",metro
-plainview_tx,"Plainview, TX",metro
-fredericksburg_tx,"Fredericksburg, TX",metro
-hailey_id,"Hailey, ID",metro
-great_bend_ks,"Great Bend, KS",metro
-spearfish_sd,"Spearfish, SD",metro
-mineral_wells_tx,"Mineral Wells, TX",metro
-boone_ia,"Boone, IA",metro
-lincoln_il,"Lincoln, IL",metro
-mount_pleasant_tx,"Mount Pleasant, TX",metro
-la_grande_or,"La Grande, OR",metro
-new_ulm_mn,"New Ulm, MN",metro
-fort_morgan_co,"Fort Morgan, CO",metro
-brookings_or,"Brookings, OR",metro
-greensburg_in,"Greensburg, IN",metro
-north_vernon_in,"North Vernon, IN",metro
-jesup_ga,"Jesup, GA",metro
-bastrop_la,"Bastrop, LA",metro
-the_dalles_or,"The Dalles, OR",metro
-thomaston_ga,"Thomaston, GA",metro
-steamboat_springs_co,"Steamboat Springs, CO",metro
-marshall_mn,"Marshall, MN",metro
-bainbridge_ga,"Bainbridge, GA",metro
-altus_ok,"Altus, OK",metro
-campbellsville_ky,"Campbellsville, KY",metro
-bennettsville_sc,"Bennettsville, SC",metro
-ottawa_ks,"Ottawa, KS",metro
-mountain_home_id,"Mountain Home, ID",metro
-toccoa_ga,"Toccoa, GA",metro
-mitchell_sd,"Mitchell, SD",metro
-crescent_city_ca,"Crescent City, CA",metro
-mexico_mo,"Mexico, MO",metro
-lexington_ne,"Lexington, NE",metro
-fallon_nv,"Fallon, NV",metro
-wahpeton_nd,"Wahpeton, ND",metro
-beeville_tx,"Beeville, TX",metro
-uvalde_tx,"Uvalde, TX",metro
-pierre_sd,"Pierre, SD",metro
-deming_nm,"Deming, NM",metro
-susanville_ca,"Susanville, CA",metro
-magnolia_ar,"Magnolia, AR",metro
-connersville_in,"Connersville, IN",metro
-jamestown_nd,"Jamestown, ND",metro
-beatrice_ne,"Beatrice, NE",metro
-moberly_mo,"Moberly, MO",metro
-heber_ut,"Heber, UT",metro
-yankton_sd,"Yankton, SD",metro
-summerville_ga,"Summerville, GA",metro
-grants_nm,"Grants, NM",metro
-forrest_city_ar,"Forrest City, AR",metro
-oskaloosa_ia,"Oskaloosa, IA",metro
-marshall_mo,"Marshall, MO",metro
-elk_city_ok,"Elk City, OK",metro
-grenada_ms,"Grenada, MS",metro
-cordele_ga,"Cordele, GA",metro
-prineville_or,"Prineville, OR",metro
-borger_tx,"Borger, TX",metro
-hood_river_or,"Hood River, OR",metro
-pampa_tx,"Pampa, TX",metro
-arkadelphia_ar,"Arkadelphia, AR",metro
-levelland_tx,"Levelland, TX",metro
-woodward_ok,"Woodward, OK",metro
-parsons_ks,"Parsons, KS",metro
-maryville_mo,"Maryville, MO",metro
-indianola_ms,"Indianola, MS",metro
-wauchula_fl,"Wauchula, FL",metro
-port_lavaca_tx,"Port Lavaca, TX",metro
-vineyard_haven_ma,"Vineyard Haven, MA",metro
-sterling_co,"Sterling, CO",metro
-worthington_mn,"Worthington, MN",metro
-spirit_lake_ia,"Spirit Lake, IA",metro
-evanston_wy,"Evanston, WY",metro
-price_ut,"Price, UT",metro
-guymon_ok,"Guymon, OK",metro
-storm_lake_ia,"Storm Lake, IA",metro
-huron_sd,"Huron, SD",metro
-helena_ar,"Helena, AR",metro
-liberal_ks,"Liberal, KS",metro
-los_alamos_nm,"Los Alamos, NM",metro
-spencer_ia,"Spencer, IA",metro
-fairfield_ia,"Fairfield, IA",metro
-dumas_tx,"Dumas, TX",metro
-portales_nm,"Portales, NM",metro
-winnemucca_nv,"Winnemucca, NV",metro
-maysville_ky,"Maysville, KY",metro
-fitzgerald_ga,"Fitzgerald, GA",metro
-andrews_tx,"Andrews, TX",metro
-hereford_tx,"Hereford, TX",metro
-snyder_tx,"Snyder, TX",metro
-sweetwater_tx,"Sweetwater, TX",metro
-atchison_ks,"Atchison, KS",metro
-othello_wa,"Othello, WA",metro
-raymondville_tx,"Raymondville, TX",metro
-ketchikan_ak,"Ketchikan, AK",metro
-vermillion_sd,"Vermillion, SD",metro
-vernon_tx,"Vernon, TX",metro
-craig_co,"Craig, CO",metro
-lamesa_tx,"Lamesa, TX",metro
-zapata_tx,"Zapata, TX",metro
-pecos_tx,"Pecos, TX",metro
-stamford_ct,"Stamford, CT",metro
-ventura_ca,"Ventura, CA",metro
-fort_myers_fl,"Fort Myers, FL",metro
-daytona_beach_fl,"Daytona Beach, FL",metro
-melbourne_fl,"Melbourne, FL",metro
-new_london_ct,"New London, CT",metro
-vero_beach_fl,"Vero Beach, FL",metro
-poughkeepsie_ny,"Poughkeepsie, NY",metro
-mount_gay_wv,"Mount Gay, WV",metro
-anaheim_ca,"Anaheim, CA",metro
-newark_nj,"Newark, NJ",metro
-wilmington_de,"Wilmington, DE",metro
+key_row,regionname,regiontype,location
+united_states,United States,country,US
+alabama,Alabama,state,AL
+alaska,Alaska,state,AK
+arizona,Arizona,state,AZ
+arkansas,Arkansas,state,AR
+california,California,state,CA
+colorado,Colorado,state,CO
+connecticut,Connecticut,state,CT
+delaware,Delaware,state,DE
+florida,Florida,state,FL
+georgia,Georgia,state,GA
+hawaii,Hawaii,state,HI
+idaho,Idaho,state,ID
+illinois,Illinois,state,IL
+indiana,Indiana,state,IN
+iowa,Iowa,state,IA
+kansas,Kansas,state,KS
+kentucky,Kentucky,state,KY
+louisiana,Louisiana,state,LA
+maine,Maine,state,ME
+maryland,Maryland,state,MD
+massachusetts,Massachusetts,state,MA
+michigan,Michigan,state,MI
+minnesota,Minnesota,state,MN
+mississippi,Mississippi,state,MS
+missouri,Missouri,state,MO
+montana,Montana,state,MT
+nebraska,Nebraska,state,NE
+nevada,Nevada,state,NV
+new_hampshire,New Hampshire,state,NH
+new_jersey,New Jersey,state,NJ
+new_mexico,New Mexico,state,NM
+new_york,New York,state,NY
+north_carolina,North Carolina,state,NC
+north_dakota,North Dakota,state,ND
+ohio,Ohio,state,OH
+oklahoma,Oklahoma,state,OK
+oregon,Oregon,state,OR
+pennsylvania,Pennsylvania,state,PA
+rhode_island,Rhode Island,state,RI
+south_carolina,South Carolina,state,SC
+south_dakota,South Dakota,state,SD
+tennessee,Tennessee,state,TN
+texas,Texas,state,TX
+utah,Utah,state,UT
+vermont,Vermont,state,VT
+virginia,Virginia,state,VA
+washington,Washington,state,WA
+west_virginia,West Virginia,state,WV
+wisconsin,Wisconsin,state,WI
+wyoming,Wyoming,state,WY
+new_york_ny,"New York, NY",metro,NY
+los_angeles_ca,"Los Angeles, CA",metro,CA
+chicago_il,"Chicago, IL",metro,IL
+dallas_tx,"Dallas, TX",metro,TX
+houston_tx,"Houston, TX",metro,TX
+philadelphia_pa,"Philadelphia, PA",metro,PA
+washington_dc,"Washington, DC",metro,DC
+miami_fl,"Miami, FL",metro,FL
+atlanta_ga,"Atlanta, GA",metro,GA
+boston_ma,"Boston, MA",metro,MA
+san_francisco_ca,"San Francisco, CA",metro,CA
+detroit_mi,"Detroit, MI",metro,MI
+phoenix_az,"Phoenix, AZ",metro,AZ
+seattle_wa,"Seattle, WA",metro,WA
+minneapolis_mn,"Minneapolis, MN",metro,MN
+riverside_ca,"Riverside, CA",metro,CA
+tampa_fl,"Tampa, FL",metro,FL
+san_diego_ca,"San Diego, CA",metro,CA
+st_louis_mo,"St. Louis, MO",metro,MO
+denver_co,"Denver, CO",metro,CO
+baltimore_md,"Baltimore, MD",metro,MD
+pittsburgh_pa,"Pittsburgh, PA",metro,PA
+portland_or,"Portland, OR",metro,OR
+charlotte_nc,"Charlotte, NC",metro,NC
+orlando_fl,"Orlando, FL",metro,FL
+cleveland_oh,"Cleveland, OH",metro,OH
+san_antonio_tx,"San Antonio, TX",metro,TX
+cincinnati_oh,"Cincinnati, OH",metro,OH
+sacramento_ca,"Sacramento, CA",metro,CA
+kansas_city_mo,"Kansas City, MO",metro,MO
+columbus_oh,"Columbus, OH",metro,OH
+indianapolis_in,"Indianapolis, IN",metro,IN
+las_vegas_nv,"Las Vegas, NV",metro,NV
+austin_tx,"Austin, TX",metro,TX
+nashville_tn,"Nashville, TN",metro,TN
+san_jose_ca,"San Jose, CA",metro,CA
+virginia_beach_va,"Virginia Beach, VA",metro,VA
+milwaukee_wi,"Milwaukee, WI",metro,WI
+providence_ri,"Providence, RI",metro,RI
+jacksonville_fl,"Jacksonville, FL",metro,FL
+oklahoma_city_ok,"Oklahoma City, OK",metro,OK
+louisville_ky,"Louisville, KY",metro,KY
+memphis_tn,"Memphis, TN",metro,TN
+new_orleans_la,"New Orleans, LA",metro,LA
+richmond_va,"Richmond, VA",metro,VA
+raleigh_nc,"Raleigh, NC",metro,NC
+buffalo_ny,"Buffalo, NY",metro,NY
+hartford_ct,"Hartford, CT",metro,CT
+birmingham_al,"Birmingham, AL",metro,AL
+rochester_ny,"Rochester, NY",metro,NY
+tucson_az,"Tucson, AZ",metro,AZ
+salt_lake_city_ut,"Salt Lake City, UT",metro,UT
+grand_rapids_mi,"Grand Rapids, MI",metro,MI
+tulsa_ok,"Tulsa, OK",metro,OK
+albany_ny,"Albany, NY",metro,NY
+albuquerque_nm,"Albuquerque, NM",metro,NM
+omaha_ne,"Omaha, NE",metro,NE
+worcester_ma,"Worcester, MA",metro,MA
+knoxville_tn,"Knoxville, TN",metro,TN
+bridgeport_ct,"Bridgeport, CT",metro,CT
+greenville_sc,"Greenville, SC",metro,SC
+north_port_fl,"North Port, FL",metro,FL
+new_haven_ct,"New Haven, CT",metro,CT
+dayton_oh,"Dayton, OH",metro,OH
+honolulu_hi,"Urban Honolulu, HI",metro,HI
+allentown_pa,"Allentown, PA",metro,PA
+columbia_sc,"Columbia, SC",metro,SC
+baton_rouge_la,"Baton Rouge, LA",metro,LA
+greensboro_nc,"Greensboro, NC",metro,NC
+fresno_ca,"Fresno, CA",metro,CA
+charleston_sc,"Charleston, SC",metro,SC
+little_rock_ar,"Little Rock, AR",metro,AR
+cape_coral_fl,"Cape Coral, FL",metro,FL
+akron_oh,"Akron, OH",metro,OH
+el_paso_tx,"El Paso, TX",metro,TX
+oxnard_ca,"Oxnard, CA",metro,CA
+colorado_springs_co,"Colorado Springs, CO",metro,CO
+madison_wi,"Madison, WI",metro,WI
+bakersfield_ca,"Bakersfield, CA",metro,CA
+winston_salem_nc,"Winston, NC",metro,NC
+syracuse_ny,"Syracuse, NY",metro,NY
+deltona_fl,"Deltona, FL",metro,FL
+boise_city_id,"Boise City, ID",metro,ID
+wichita_ks,"Wichita, KS",metro,KS
+toledo_oh,"Toledo, OH",metro,OH
+des_moines_ia,"Des Moines, IA",metro,IA
+springfield_ma,"Springfield, MA",metro,MA
+lakeland_fl,"Lakeland, FL",metro,FL
+palm_bay_fl,"Palm Bay, FL",metro,FL
+mcallen_tx,"McAllen, TX",metro,TX
+harrisburg_pa,"Harrisburg, PA",metro,PA
+scranton_pa,"Scranton, PA",metro,PA
+augusta_ga,"Augusta, GA",metro,GA
+youngstown_oh,"Youngstown, OH",metro,OH
+stockton_ca,"Stockton, CA",metro,CA
+durham_nc,"Durham, NC",metro,NC
+portland_me,"Portland, ME",metro,ME
+spokane_wa,"Spokane, WA",metro,WA
+chattanooga_tn,"Chattanooga, TN",metro,TN
+jackson_ms,"Jackson, MS",metro,MS
+ogden_ut,"Ogden, UT",metro,UT
+lexington_ky,"Lexington, KY",metro,KY
+lancaster_pa,"Lancaster, PA",metro,PA
+santa_rosa_ca,"Santa Rosa, CA",metro,CA
+fayetteville_ar,"Fayetteville, AR",metro,AR
+asheville_nc,"Asheville, NC",metro,NC
+lafayette_la,"Lafayette, LA",metro,LA
+lansing_mi,"Lansing, MI",metro,MI
+pensacola_fl,"Pensacola, FL",metro,FL
+springfield_mo,"Springfield, MO",metro,MO
+myrtle_beach_sc,"Myrtle Beach, SC",metro,SC
+port_st_lucie_fl,"Port St. Lucie, FL",metro,FL
+huntsville_al,"Huntsville, AL",metro,AL
+shreveport_la,"Shreveport, LA",metro,LA
+reno_nv,"Reno, NV",metro,NV
+modesto_ca,"Modesto, CA",metro,CA
+york_pa,"York, PA",metro,PA
+corpus_christi_tx,"Corpus Christi, TX",metro,TX
+fort_wayne_in,"Fort Wayne, IN",metro,IN
+canton_oh,"Canton, OH",metro,OH
+flint_mi,"Flint, MI",metro,MI
+provo_ut,"Provo, UT",metro,UT
+mobile_al,"Mobile, AL",metro,AL
+manchester_nh,"Manchester, NH",metro,NH
+davenport_ia,"Davenport, IA",metro,IA
+salisbury_md,"Salisbury, MD",metro,MD
+killeen_tx,"Killeen, TX",metro,TX
+reading_pa,"Reading, PA",metro,PA
+beaumont_tx,"Beaumont, TX",metro,TX
+peoria_il,"Peoria, IL",metro,IL
+vallejo_ca,"Vallejo, CA",metro,CA
+eugene_or,"Eugene, OR",metro,OR
+gulfport_ms,"Gulfport, MS",metro,MS
+fayetteville_nc,"Fayetteville, NC",metro,NC
+tallahassee_fl,"Tallahassee, FL",metro,FL
+santa_maria_ca,"Santa Maria, CA",metro,CA
+naples_fl,"Naples, FL",metro,FL
+huntington_wv,"Huntington, WV",metro,WV
+salem_or,"Salem, OR",metro,OR
+anchorage_ak,"Anchorage, AK",metro,AK
+savannah_ga,"Savannah, GA",metro,GA
+ann_arbor_mi,"Ann Arbor, MI",metro,MI
+hickory_nc,"Hickory, NC",metro,NC
+ocala_fl,"Ocala, FL",metro,FL
+montgomery_al,"Montgomery, AL",metro,AL
+visalia_ca,"Visalia, CA",metro,CA
+fort_collins_co,"Fort Collins, CO",metro,CO
+trenton_nj,"Trenton, NJ",metro,NJ
+kalamazoo_mi,"Kalamazoo, MI",metro,MI
+salinas_ca,"Salinas, CA",metro,CA
+roanoke_va,"Roanoke, VA",metro,VA
+boulder_co,"Boulder, CO",metro,CO
+kingsport_tn,"Kingsport, TN",metro,TN
+rockford_il,"Rockford, IL",metro,IL
+lincoln_ne,"Lincoln, NE",metro,NE
+evansville_in,"Evansville, IN",metro,IN
+green_bay_wi,"Green Bay, WI",metro,WI
+brownsville_tx,"Brownsville, TX",metro,TX
+spartanburg_sc,"Spartanburg, SC",metro,SC
+south_bend_in,"South Bend, IN",metro,IN
+columbus_ga,"Columbus, GA",metro,GA
+utica_ny,"Utica, NY",metro,NY
+duluth_mn,"Duluth, MN",metro,MN
+lubbock_tx,"Lubbock, TX",metro,TX
+wilmington_nc,"Wilmington, NC",metro,NC
+gainesville_fl,"Gainesville, FL",metro,FL
+erie_pa,"Erie, PA",metro,PA
+olympia_wa,"Olympia, WA",metro,WA
+cedar_rapids_ia,"Cedar Rapids, IA",metro,IA
+fort_smith_ar,"Fort Smith, AR",metro,AR
+crestview_fl,"Crestview, FL",metro,FL
+norwich_ct,"Norwich, CT",metro,CT
+san_luis_obispo_ca,"San Luis Obispo, CA",metro,CA
+clarksville_tn,"Clarksville, TN",metro,TN
+lynchburg_va,"Lynchburg, VA",metro,VA
+atlantic_city_nj,"Atlantic City, NJ",metro,NJ
+greeley_co,"Greeley, CO",metro,CO
+bremerton_wa,"Bremerton, WA",metro,WA
+sioux_falls_sd,"Sioux Falls, SD",metro,SD
+binghamton_ny,"Binghamton, NY",metro,NY
+amarillo_tx,"Amarillo, TX",metro,TX
+santa_cruz_ca,"Santa Cruz, CA",metro,CA
+hagerstown_md,"Hagerstown, MD",metro,MD
+fargo_nd,"Fargo, ND",metro,ND
+kennewick_wa,"Kennewick, WA",metro,WA
+waco_tx,"Waco, TX",metro,TX
+champaign_il,"Champaign, IL",metro,IL
+prescott_az,"Prescott Valley, AZ",metro,AZ
+barnstable_town_ma,"Barnstable Town, MA",metro,MA
+charleston_wv,"Charleston, WV",metro,WV
+tuscaloosa_al,"Tuscaloosa, AL",metro,AL
+topeka_ks,"Topeka, KS",metro,KS
+college_station_tx,"College Station, TX",metro,TX
+appleton_wi,"Appleton, WI",metro,WI
+claremont_nh,"Lebanon, NH",metro,NH
+chico_ca,"Chico, CA",metro,CA
+charlottesville_va,"Charlottesville, VA",metro,VA
+springfield_il,"Springfield, IL",metro,IL
+macon_ga,"Macon, GA",metro,GA
+medford_or,"Medford, OR",metro,OR
+burlington_vt,"Burlington, VT",metro,VT
+rochester_mn,"Rochester, MN",metro,MN
+bellingham_wa,"Bellingham, WA",metro,WA
+johnson_city_tn,"Johnson City, TN",metro,TN
+tyler_tx,"Tyler, TX",metro,TX
+hilton_head_island_sc,"Hilton Head Island, SC",metro,SC
+lake_havasu_city_az,"Lake Havasu City, AZ",metro,AZ
+daphne_al,"Daphne, AL",metro,AL
+yakima_wa,"Yakima, WA",metro,WA
+lafayette_in,"Lafayette, IN",metro,IN
+longview_tx,"Longview, TX",metro,TX
+florence_sc,"Florence, SC",metro,SC
+lake_charles_la,"Lake Charles, LA",metro,LA
+punta_gorda_fl,"Punta Gorda, FL",metro,FL
+panama_city_fl,"Panama City, FL",metro,FL
+merced_ca,"Merced, CA",metro,CA
+las_cruces_nm,"Las Cruces, NM",metro,NM
+houma_la,"Houma, LA",metro,LA
+saginaw_mi,"Saginaw, MI",metro,MI
+racine_wi,"Racine, WI",metro,WI
+athens_ga,"Athens, GA",metro,GA
+torrington_ct,"Torrington, CT",metro,CT
+st_cloud_mn,"St. Cloud, MN",metro,MN
+bloomington_il,"Bloomington, IL",metro,IL
+laredo_tx,"Laredo, TX",metro,TX
+hilo_hi,"Hilo, HI",metro,HI
+redding_ca,"Redding, CA",metro,CA
+elkhart_in,"Elkhart, IN",metro,IN
+warner_robins_ga,"Warner Robins, GA",metro,GA
+blacksburg_va,"Blacksburg, VA",metro,VA
+greenville_nc,"Greenville, NC",metro,NC
+bend_or,"Bend, OR",metro,OR
+billings_mt,"Billings, MT",metro,MT
+kingston_ny,"Kingston, NY",metro,NY
+oshkosh_wi,"Oshkosh, WI",metro,WI
+monroe_la,"Monroe, LA",metro,LA
+columbia_mo,"Columbia, MO",metro,MO
+waterloo_ia,"Waterloo, IA",metro,IA
+jacksonville_nc,"Jacksonville, NC",metro,NC
+iowa_city_ia,"Iowa City, IA",metro,IA
+joplin_mo,"Joplin, MO",metro,MO
+eau_claire_wi,"Eau Claire, WI",metro,WI
+muskegon_mi,"Muskegon, MI",metro,MI
+bloomington_in,"Bloomington, IN",metro,IN
+yuma_az,"Yuma, AZ",metro,AZ
+gainesville_ga,"Gainesville, GA",metro,GA
+terre_haute_in,"Terre Haute, IN",metro,IN
+santa_fe_nm,"Santa Fe, NM",metro,NM
+bowling_green_ky,"Bowling Green, KY",metro,KY
+pueblo_co,"Pueblo, CO",metro,CO
+dover_de,"Dover, DE",metro,DE
+abilene_tx,"Abilene, TX",metro,TX
+sioux_city_ia,"Sioux City, IA",metro,IA
+sebastian_fl,"Sebastian, FL",metro,FL
+janesville_wi,"Janesville, WI",metro,WI
+homosassa_springs_fl,"Homosassa Springs, FL",metro,FL
+bangor_me,"Bangor, ME",metro,ME
+auburn_al,"Auburn, AL",metro,AL
+niles_mi,"Niles, MI",metro,MI
+midland_tx,"Midland, TX",metro,TX
+traverse_city_mi,"Traverse City, MI",metro,MI
+burlington_nc,"Burlington, NC",metro,NC
+florence_al,"Florence, AL",metro,AL
+jackson_mi,"Jackson, MI",metro,MI
+rapid_city_sd,"Rapid City, SD",metro,SD
+decatur_al,"Decatur, AL",metro,AL
+wheeling_wv,"Wheeling, WV",metro,WV
+ottawa_il,"Ottawa, IL",metro,IL
+dothan_al,"Dothan, AL",metro,AL
+state_college_pa,"State College, PA",metro,PA
+chambersburg_pa,"Chambersburg, PA",metro,PA
+coeur_dalene_id,"Coeur d'Alene, ID",metro,ID
+east_stroudsburg_pa,"East Stroudsburg, PA",metro,PA
+rocky_mount_nc,"Rocky Mount, NC",metro,NC
+grand_junction_co,"Grand Junction, CO",metro,CO
+kahului_hi,"Kahului, HI",metro,HI
+alexandria_la,"Alexandria, LA",metro,LA
+pottsville_pa,"Pottsville, PA",metro,PA
+albany_ga,"Albany, GA",metro,GA
+hattiesburg_ms,"Hattiesburg, MS",metro,MS
+jefferson_city_mo,"Jefferson City, MO",metro,MO
+monroe_mi,"Monroe, MI",metro,MI
+elizabethtown_ky,"Elizabethtown, KY",metro,KY
+concord_nh,"Concord, NH",metro,NH
+texarkana_tx,"Texarkana, TX",metro,TX
+wichita_falls_tx,"Wichita Falls, TX",metro,TX
+morgantown_wv,"Morgantown, WV",metro,WV
+the_villages_fl,"The Villages, FL",metro,FL
+eureka_ca,"Eureka, CA",metro,CA
+johnstown_pa,"Johnstown, PA",metro,PA
+yuba_city_ca,"Yuba City, CA",metro,CA
+odessa_tx,"Odessa, TX",metro,TX
+la_crosse_wi,"La Crosse, WI",metro,WI
+pittsfield_ma,"Pittsfield, MA",metro,MA
+wausau_wi,"Wausau, WI",metro,WI
+bismarck_nd,"Bismarck, ND",metro,ND
+springfield_oh,"Springfield, OH",metro,OH
+battle_creek_mi,"Battle Creek, MI",metro,MI
+lebanon_pa,"Lebanon, PA",metro,PA
+tupelo_ms,"Tupelo, MS",metro,MS
+jamestown_ny,"Jamestown, NY",metro,NY
+st_george_ut,"St. George, UT",metro,UT
+carbondale_il,"Carbondale, IL",metro,IL
+valdosta_ga,"Valdosta, GA",metro,GA
+el_centro_ca,"El Centro, CA",metro,CA
+altoona_pa,"Altoona, PA",metro,PA
+glens_falls_ny,"Glens Falls, NY",metro,NY
+vineland_nj,"Vineland, NJ",metro,NJ
+winchester_va,"Winchester, VA",metro,VA
+augusta_me,"Augusta, ME",metro,ME
+weirton_wv,"Weirton, WV",metro,WV
+napa_ca,"Napa, CA",metro,CA
+new_bern_nc,"New Bern, NC",metro,NC
+jackson_tn,"Jackson, TN",metro,TN
+london_ky,"London, KY",metro,KY
+beckley_wv,"Beckley, WV",metro,WV
+jonesboro_ar,"Jonesboro, AR",metro,AR
+goldsboro_nc,"Goldsboro, NC",metro,NC
+sierra_vista_az,"Sierra Vista, AZ",metro,AZ
+staunton_va,"Staunton, VA",metro,VA
+dalton_ga,"Dalton, GA",metro,GA
+missoula_mt,"Missoula, MT",metro,MT
+hammond_la,"Hammond, LA",metro,LA
+flagstaff_az,"Flagstaff, AZ",metro,AZ
+lawton_ok,"Lawton, OK",metro,OK
+sherman_tx,"Sherman, TX",metro,TX
+idaho_falls_id,"Idaho Falls, ID",metro,ID
+lumberton_nc,"Lumberton, NC",metro,NC
+mount_vernon_wa,"Mount Vernon, WA",metro,WA
+harrisonburg_va,"Harrisonburg, VA",metro,VA
+mansfield_oh,"Mansfield, OH",metro,OH
+st_joseph_mo,"St. Joseph, MO",metro,MO
+williamsport_pa,"Williamsport, PA",metro,PA
+lawrence_ks,"Lawrence, KS",metro,KS
+sheboygan_wi,"Sheboygan, WI",metro,WI
+albany_or,"Albany, OR",metro,OR
+owensboro_ky,"Owensboro, KY",metro,KY
+dunn_nc,"Dunn, NC",metro,NC
+cleveland_tn,"Cleveland, TN",metro,TN
+san_angelo_tx,"San Angelo, TX",metro,TX
+muncie_in,"Muncie, IN",metro,IN
+brunswick_ga,"Brunswick, GA",metro,GA
+anniston_al,"Anniston, AL",metro,AL
+roseburg_or,"Roseburg, OR",metro,OR
+morristown_tn,"Morristown, TN",metro,TN
+watertown_ny,"Watertown, NY",metro,NY
+madera_ca,"Madera, CA",metro,CA
+danville_va,"Danville, VA",metro,VA
+decatur_il,"Decatur, IL",metro,IL
+lewiston_me,"Lewiston, ME",metro,ME
+bluefield_wv,"Bluefield, WV",metro,WV
+bay_city_mi,"Bay City, MI",metro,MI
+holland_mi,"Holland, MI",metro,MI
+wenatchee_wa,"Wenatchee, WA",metro,WA
+cookeville_tn,"Cookeville, TN",metro,TN
+wooster_oh,"Wooster, OH",metro,OH
+sebring_fl,"Sebring, FL",metro,FL
+grand_forks_nd,"Grand Forks, ND",metro,ND
+truckee_ca,"Truckee, CA",metro,CA
+michigan_city_in,"Michigan City, IN",metro,IN
+salem_oh,"Salem, OH",metro,OH
+bozeman_mt,"Bozeman, MT",metro,MT
+logan_ut,"Logan, UT",metro,UT
+farmington_nm,"Farmington, NM",metro,NM
+hot_springs_ar,"Hot Springs, AR",metro,AR
+hanford_ca,"Hanford, CA",metro,CA
+paducah_ky,"Paducah, KY",metro,KY
+fond_du_lac_wi,"Fond du Lac, WI",metro,WI
+gadsden_al,"Gadsden, AL",metro,AL
+ogdensburg_ny,"Ogdensburg, NY",metro,NY
+sumter_sc,"Sumter, SC",metro,SC
+ithaca_ny,"Ithaca, NY",metro,NY
+meridian_ms,"Meridian, MS",metro,MS
+longview_wa,"Longview, WA",metro,WA
+richmond_ky,"Richmond, KY",metro,KY
+pinehurst_nc,"Pinehurst, NC",metro,NC
+kalispell_mt,"Kalispell, MT",metro,MT
+whitewater_wi,"Whitewater, WI",metro,WI
+kankakee_il,"Kankakee, IL",metro,IL
+cheyenne_wy,"Cheyenne, WY",metro,WY
+corning_ny,"Corning, NY",metro,NY
+tullahoma_tn,"Tullahoma, TN",metro,TN
+lima_oh,"Lima, OH",metro,OH
+california_md,"California, MD",metro,MD
+ocean_city_nj,"Ocean City, NJ",metro,NJ
+cumberland_md,"Cumberland, MD",metro,MD
+cape_girardeau_mo,"Cape Girardeau, MO",metro,MO
+parkersburg_wv,"Parkersburg, WV",metro,WV
+brainerd_mn,"Brainerd, MN",metro,MN
+sunbury_pa,"Sunbury, PA",metro,PA
+dubuque_ia,"Dubuque, IA",metro,IA
+clarksburg_wv,"Clarksburg, WV",metro,WV
+gettysburg_pa,"Gettysburg, PA",metro,PA
+twin_falls_id,"Twin Falls, ID",metro,ID
+shelby_nc,"Shelby, NC",metro,NC
+ashtabula_oh,"Ashtabula, OH",metro,OH
+mankato_mn,"Mankato, MN",metro,MN
+sevierville_tn,"Sevierville, TN",metro,TN
+victoria_tx,"Victoria, TX",metro,TX
+adrian_mi,"Adrian, MI",metro,MI
+greenwood_sc,"Greenwood, SC",metro,SC
+new_philadelphia_oh,"New Philadelphia, OH",metro,OH
+fairbanks_ak,"Fairbanks, AK",metro,AK
+show_low_az,"Show Low, AZ",metro,AZ
+ames_ia,"Ames, IA",metro,IA
+new_castle_pa,"New Castle, PA",metro,PA
+albertville_al,"Albertville, AL",metro,AL
+corvallis_or,"Corvallis, OR",metro,OR
+manhattan_ks,"Manhattan, KS",metro,KS
+talladega_al,"Talladega, AL",metro,AL
+ukiah_ca,"Ukiah, CA",metro,CA
+grants_pass_or,"Grants Pass, OR",metro,OR
+rome_ga,"Rome, GA",metro,GA
+branson_mo,"Branson, MO",metro,MO
+elmira_ny,"Elmira, NY",metro,NY
+key_west_fl,"Key West, FL",metro,FL
+orangeburg_sc,"Orangeburg, SC",metro,SC
+great_falls_mt,"Great Falls, MT",metro,MT
+zanesville_oh,"Zanesville, OH",metro,OH
+kokomo_in,"Kokomo, IN",metro,IN
+meadville_pa,"Meadville, PA",metro,PA
+indiana_pa,"Indiana, PA",metro,PA
+bloomsburg_pa,"Bloomsburg, PA",metro,PA
+beaver_dam_wi,"Beaver Dam, WI",metro,WI
+pine_bluff_ar,"Pine Bluff, AR",metro,AR
+oak_harbor_wa,"Oak Harbor, WA",metro,WA
+manitowoc_wi,"Manitowoc, WI",metro,WI
+casper_wy,"Casper, WY",metro,WY
+midland_mi,"Midland, MI",metro,MI
+minot_nd,"Minot, ND",metro,ND
+helena_mt,"Helena, MT",metro,MT
+grand_island_ne,"Grand Island, NE",metro,NE
+watertown_wi,"Watertown, WI",metro,WI
+port_angeles_wa,"Port Angeles, WA",metro,WA
+opelousas_la,"Opelousas, LA",metro,LA
+cullman_al,"Cullman, AL",metro,AL
+russellville_ar,"Russellville, AR",metro,AR
+wilson_nc,"Wilson, NC",metro,NC
+laurel_ms,"Laurel, MS",metro,MS
+moses_lake_wa,"Moses Lake, WA",metro,WA
+plattsburgh_ny,"Plattsburgh, NY",metro,NY
+dubois_pa,"DuBois, PA",metro,PA
+lufkin_tx,"Lufkin, TX",metro,TX
+olean_ny,"Olean, NY",metro,NY
+stillwater_ok,"Stillwater, OK",metro,OK
+athens_tx,"Athens, TX",metro,TX
+wisconsin_rapids_wi,"Wisconsin Rapids, WI",metro,WI
+columbus_in,"Columbus, IN",metro,IN
+danville_il,"Danville, IL",metro,IL
+sandusky_oh,"Sandusky, OH",metro,OH
+hermiston_or,"Hermiston, OR",metro,OR
+quincy_il,"Quincy, IL",metro,IL
+auburn_ny,"Auburn, NY",metro,NY
+seneca_sc,"Seneca, SC",metro,SC
+pocatello_id,"Pocatello, ID",metro,ID
+findlay_oh,"Findlay, OH",metro,OH
+morehead_city_nc,"Morehead City, NC",metro,NC
+greenfield_town_ma,"Greenfield Town, MA",metro,MA
+somerset_pa,"Somerset, PA",metro,PA
+keene_nh,"Keene, NH",metro,NH
+centralia_wa,"Centralia, WA",metro,WA
+warsaw_in,"Warsaw, IN",metro,IN
+roanoke_rapids_nc,"Roanoke Rapids, NC",metro,NC
+searcy_ar,"Searcy, AR",metro,AR
+frankfort_ky,"Frankfort, KY",metro,KY
+hinesville_ga,"Hinesville, GA",metro,GA
+portsmouth_oh,"Portsmouth, OH",metro,OH
+mount_airy_nc,"Mount Airy, NC",metro,NC
+glenwood_springs_co,"Glenwood Springs, CO",metro,CO
+chillicothe_oh,"Chillicothe, OH",metro,OH
+marinette_wi,"Marinette, WI",metro,WI
+martinsville_va,"Martinsville, VA",metro,VA
+stevens_point_wi,"Stevens Point, WI",metro,WI
+palatka_fl,"Palatka, FL",metro,FL
+marquette_mi,"Marquette, MI",metro,MI
+north_wilkesboro_nc,"North Wilkesboro, NC",metro,NC
+aberdeen_wa,"Aberdeen, WA",metro,WA
+greeneville_tn,"Greeneville, TN",metro,TN
+huntsville_tx,"Huntsville, TX",metro,TX
+klamath_falls_or,"Klamath Falls, OR",metro,OR
+shawnee_ok,"Shawnee, OK",metro,OK
+coos_bay_or,"Coos Bay, OR",metro,OR
+forest_city_nc,"Forest City, NC",metro,NC
+owosso_mi,"Owosso, MI",metro,MI
+richmond_in,"Richmond, IN",metro,IN
+marion_in,"Marion, IN",metro,IN
+muskogee_ok,"Muskogee, OK",metro,OK
+lewiston_id,"Lewiston, ID",metro,ID
+clearlake_ca,"Clearlake, CA",metro,CA
+baraboo_wi,"Baraboo, WI",metro,WI
+somerset_ky,"Somerset, KY",metro,KY
+mount_pleasant_mi,"Mount Pleasant, MI",metro,MI
+lagrange_ga,"LaGrange, GA",metro,GA
+statesboro_ga,"Statesboro, GA",metro,GA
+hudson_ny,"Hudson, NY",metro,NY
+marietta_oh,"Marietta, OH",metro,OH
+enid_ok,"Enid, OK",metro,OK
+rutland_vt,"Rutland, VT",metro,VT
+hutchinson_ks,"Hutchinson, KS",metro,KS
+charleston_il,"Charleston, IL",metro,IL
+georgetown_sc,"Georgetown, SC",metro,SC
+lake_city_fl,"Lake City, FL",metro,FL
+fort_madison_ia,"Fort Madison, IA",metro,IA
+alamogordo_nm,"Alamogordo, NM",metro,NM
+marshall_tx,"Marshall, TX",metro,TX
+laconia_nh,"Laconia, NH",metro,NH
+crossville_tn,"Crossville, TN",metro,TN
+barre_vt,"Barre, VT",metro,VT
+sayre_pa,"Sayre, PA",metro,PA
+salina_ks,"Salina, KS",metro,KS
+kapaa_hi,"Kapaa, HI",metro,HI
+fergus_falls_mn,"Fergus Falls, MN",metro,MN
+hobbs_nm,"Hobbs, NM",metro,NM
+nacogdoches_tx,"Nacogdoches, TX",metro,TX
+walla_walla_wa,"Walla Walla, WA",metro,WA
+shelton_wa,"Shelton, WA",metro,WA
+oneonta_ny,"Oneonta, NY",metro,NY
+farmington_mo,"Farmington, MO",metro,MO
+elizabeth_city_nc,"Elizabeth City, NC",metro,NC
+fremont_oh,"Fremont, OH",metro,OH
+fairmont_wv,"Fairmont, WV",metro,WV
+marion_oh,"Marion, OH",metro,OH
+kinston_nc,"Kinston, NC",metro,NC
+athens_oh,"Athens, OH",metro,OH
+columbus_ms,"Columbus, MS",metro,MS
+albemarle_nc,"Albemarle, NC",metro,NC
+red_bluff_ca,"Red Bluff, CA",metro,CA
+roswell_nm,"Roswell, NM",metro,NM
+batavia_ny,"Batavia, NY",metro,NY
+big_stone_gap_va,"Big Stone Gap, VA",metro,VA
+gallup_nm,"Gallup, NM",metro,NM
+sturgis_mi,"Sturgis, MI",metro,MI
+faribault_mn,"Faribault, MN",metro,MN
+sterling_il,"Sterling, IL",metro,IL
+sanford_nc,"Sanford, NC",metro,NC
+durango_co,"Durango, CO",metro,CO
+mount_vernon_oh,"Mount Vernon, OH",metro,OH
+point_pleasant_wv,"Point Pleasant, WV",metro,WV
+ionia_mi,"Ionia, MI",metro,MI
+norwalk_oh,"Norwalk, OH",metro,OH
+mason_city_ia,"Mason City, IA",metro,IA
+payson_az,"Payson, AZ",metro,AZ
+kearney_ne,"Kearney, NE",metro,NE
+oil_city_pa,"Oil City, PA",metro,PA
+sonora_ca,"Sonora, CA",metro,CA
+carlsbad_nm,"Carlsbad, NM",metro,NM
+gloversville_ny,"Gloversville, NY",metro,NY
+jefferson_ga,"Jefferson, GA",metro,GA
+vicksburg_ms,"Vicksburg, MS",metro,MS
+gaffney_sc,"Gaffney, SC",metro,SC
+jasper_in,"Jasper, IN",metro,IN
+dublin_ga,"Dublin, GA",metro,GA
+bartlesville_ok,"Bartlesville, OK",metro,OK
+oxford_nc,"Oxford, NC",metro,NC
+glasgow_ky,"Glasgow, KY",metro,KY
+carson_city_nv,"Carson City, NV",metro,NV
+tiffin_oh,"Tiffin, OH",metro,OH
+kerrville_tx,"Kerrville, TX",metro,TX
+galesburg_il,"Galesburg, IL",metro,IL
+scottsboro_al,"Scottsboro, AL",metro,AL
+newport_or,"Newport, OR",metro,OR
+boone_nc,"Boone, NC",metro,NC
+oxford_ms,"Oxford, MS",metro,MS
+danville_ky,"Danville, KY",metro,KY
+athens_tn,"Athens, TN",metro,TN
+greenville_oh,"Greenville, OH",metro,OH
+picayune_ms,"Picayune, MS",metro,MS
+gardnerville_ranchos_nv,"Gardnerville Ranchos, NV",metro,NV
+waycross_ga,"Waycross, GA",metro,GA
+elko_nv,"Elko, NV",metro,NV
+rochelle_il,"Rochelle, IL",metro,IL
+mccomb_ms,"McComb, MS",metro,MS
+ashland_oh,"Ashland, OH",metro,OH
+enterprise_al,"Enterprise, AL",metro,AL
+warrensburg_mo,"Warrensburg, MO",metro,MO
+burlington_ia,"Burlington, IA",metro,IA
+washington_nc,"Washington, NC",metro,NC
+fernley_nv,"Fernley, NV",metro,NV
+morgan_city_la,"Morgan City, LA",metro,LA
+amsterdam_ny,"Amsterdam, NY",metro,NY
+paris_tx,"Paris, TX",metro,TX
+calhoun_ga,"Calhoun, GA",metro,GA
+natchez_ms,"Natchez, MS",metro,MS
+starkville_ms,"Starkville, MS",metro,MS
+clinton_ia,"Clinton, IA",metro,IA
+ozark_al,"Ozark, AL",metro,AL
+platteville_wi,"Platteville, WI",metro,WI
+edwards_co,"Edwards, CO",metro,CO
+norfolk_ne,"Norfolk, NE",metro,NE
+winona_mn,"Winona, MN",metro,MN
+milledgeville_ga,"Milledgeville, GA",metro,GA
+freeport_il,"Freeport, IL",metro,IL
+cadillac_mi,"Cadillac, MI",metro,MI
+red_wing_mn,"Red Wing, MN",metro,MN
+malone_ny,"Malone, NY",metro,NY
+st_marys_ga,"St. Marys, GA",metro,GA
+ardmore_ok,"Ardmore, OK",metro,OK
+fort_polk_south_la,"Fort Polk South, LA",metro,LA
+clovis_nm,"Clovis, NM",metro,NM
+pullman_wa,"Pullman, WA",metro,WA
+ontario_or,"Ontario, OR",metro,OR
+lewistown_pa,"Lewistown, PA",metro,PA
+madisonville_ky,"Madisonville, KY",metro,KY
+shawano_wi,"Shawano, WI",metro,WI
+bedford_in,"Bedford, IN",metro,IN
+harrison_ar,"Harrison, AR",metro,AR
+new_castle_in,"New Castle, IN",metro,IN
+tahlequah_ok,"Tahlequah, OK",metro,OK
+cortland_ny,"Cortland, NY",metro,NY
+mountain_home_ar,"Mountain Home, AR",metro,AR
+gillette_wy,"Gillette, WY",metro,WY
+aberdeen_sd,"Aberdeen, SD",metro,SD
+sidney_oh,"Sidney, OH",metro,OH
+ruston_la,"Ruston, LA",metro,LA
+mount_sterling_ky,"Mount Sterling, KY",metro,KY
+wapakoneta_oh,"Wapakoneta, OH",metro,OH
+rio_grande_city_tx,"Rio Grande City, TX",metro,TX
+rockingham_nc,"Rockingham, NC",metro,NC
+ponca_city_ok,"Ponca City, OK",metro,OK
+greenville_ms,"Greenville, MS",metro,MS
+sandpoint_id,"Sandpoint, ID",metro,ID
+bellefontaine_oh,"Bellefontaine, OH",metro,OH
+durant_ok,"Durant, OK",metro,OK
+jacksonville_tx,"Jacksonville, TX",metro,TX
+marion_nc,"Marion, NC",metro,NC
+thomasville_ga,"Thomasville, GA",metro,GA
+bemidji_mn,"Bemidji, MN",metro,MN
+bogalusa_la,"Bogalusa, LA",metro,LA
+bardstown_ky,"Bardstown, KY",metro,KY
+ellensburg_wa,"Ellensburg, WA",metro,WA
+poplar_bluff_mo,"Poplar Bluff, MO",metro,MO
+duncan_ok,"Duncan, OK",metro,OK
+port_clinton_oh,"Port Clinton, OH",metro,OH
+pahrump_nv,"Pahrump, NV",metro,NV
+bucyrus_oh,"Bucyrus, OH",metro,OH
+corsicana_tx,"Corsicana, TX",metro,TX
+kendallville_in,"Kendallville, IN",metro,IN
+plymouth_in,"Plymouth, IN",metro,IN
+hillsdale_mi,"Hillsdale, MI",metro,MI
+ottumwa_ia,"Ottumwa, IA",metro,IA
+warren_pa,"Warren, PA",metro,PA
+shelbyville_tn,"Shelbyville, TN",metro,TN
+rolla_mo,"Rolla, MO",metro,MO
+mcalester_ok,"McAlester, OK",metro,OK
+seymour_in,"Seymour, IN",metro,IN
+paragould_ar,"Paragould, AR",metro,AR
+henderson_nc,"Henderson, NC",metro,NC
+huntingdon_pa,"Huntingdon, PA",metro,PA
+palestine_tx,"Palestine, TX",metro,TX
+cullowhee_nc,"Cullowhee, NC",metro,NC
+rock_springs_wy,"Rock Springs, WY",metro,WY
+menomonie_wi,"Menomonie, WI",metro,WI
+willmar_mn,"Willmar, MN",metro,MN
+canon_city_co,"CaÃ±on City, CO",metro,CO
+eagle_pass_tx,"Eagle Pass, TX",metro,TX
+bradford_pa,"Bradford, PA",metro,PA
+laramie_wy,"Laramie, WY",metro,WY
+blytheville_ar,"Blytheville, AR",metro,AR
+kill_devil_hills_nc,"Kill Devil Hills, NC",metro,NC
+berlin_nh,"Berlin, NH",metro,NH
+fort_leonard_wood_mo,"Fort Leonard Wood, MO",metro,MO
+muscatine_ia,"Muscatine, IA",metro,IA
+lawrenceburg_tn,"Lawrenceburg, TN",metro,TN
+montrose_co,"Montrose, CO",metro,CO
+big_rapids_mi,"Big Rapids, MI",metro,MI
+sedalia_mo,"Sedalia, MO",metro,MO
+moultrie_ga,"Moultrie, GA",metro,GA
+el_dorado_ar,"El Dorado, AR",metro,AR
+wilmington_oh,"Wilmington, OH",metro,OH
+astoria_or,"Astoria, OR",metro,OR
+coldwater_mi,"Coldwater, MI",metro,MI
+del_rio_tx,"Del Rio, TX",metro,TX
+cambridge_oh,"Cambridge, OH",metro,OH
+auburn_in,"Auburn, IN",metro,IN
+west_plains_mo,"West Plains, MO",metro,MO
+jacksonville_il,"Jacksonville, IL",metro,IL
+murray_ky,"Murray, KY",metro,KY
+selma_al,"Selma, AL",metro,AL
+easton_md,"Easton, MD",metro,MD
+alexandria_mn,"Alexandria, MN",metro,MN
+escanaba_mi,"Escanaba, MI",metro,MI
+mcminnville_tn,"McMinnville, TN",metro,TN
+austin_mn,"Austin, MN",metro,MN
+celina_oh,"Celina, OH",metro,OH
+cedar_city_ut,"Cedar City, UT",metro,UT
+centralia_il,"Centralia, IL",metro,IL
+espa_nm,"EspaÂ±ola, NM",metro,NM
+pittsburg_ks,"Pittsburg, KS",metro,KS
+riverton_wy,"Riverton, WY",metro,WY
+natchitoches_la,"Natchitoches, LA",metro,LA
+hannibal_mo,"Hannibal, MO",metro,MO
+cornelia_ga,"Cornelia, GA",metro,GA
+scottsbluff_ne,"Scottsbluff, NE",metro,NE
+butte_mt,"Butte, MT",metro,MT
+sikeston_mo,"Sikeston, MO",metro,MO
+greenwood_ms,"Greenwood, MS",metro,MS
+marshalltown_ia,"Marshalltown, IA",metro,IA
+moscow_id,"Moscow, ID",metro,ID
+north_platte_ne,"North Platte, NE",metro,NE
+rexburg_id,"Rexburg, ID",metro,ID
+burley_id,"Burley, ID",metro,ID
+lock_haven_pa,"Lock Haven, PA",metro,PA
+bennington_vt,"Bennington, VT",metro,VT
+mount_vernon_il,"Mount Vernon, IL",metro,IL
+nogales_az,"Nogales, AZ",metro,AZ
+el_campo_tx,"El Campo, TX",metro,TX
+taos_nm,"Taos, NM",metro,NM
+mayfield_ky,"Mayfield, KY",metro,KY
+stephenville_tx,"Stephenville, TX",metro,TX
+union_city_tn,"Union City, TN",metro,TN
+tifton_ga,"Tifton, GA",metro,GA
+selinsgrove_pa,"Selinsgrove, PA",metro,PA
+defiance_oh,"Defiance, OH",metro,OH
+vincennes_in,"Vincennes, IN",metro,IN
+lewisburg_pa,"Lewisburg, PA",metro,PA
+crawfordsville_in,"Crawfordsville, IN",metro,IN
+fremont_ne,"Fremont, NE",metro,NE
+houghton_mi,"Houghton, MI",metro,MI
+blackfoot_id,"Blackfoot, ID",metro,ID
+corinth_ms,"Corinth, MS",metro,MS
+newberry_sc,"Newberry, SC",metro,SC
+dyersburg_tn,"Dyersburg, TN",metro,TN
+williston_nd,"Williston, ND",metro,ND
+newton_ia,"Newton, IA",metro,IA
+ada_ok,"Ada, OK",metro,OK
+gainesville_tx,"Gainesville, TX",metro,TX
+cedartown_ga,"Cedartown, GA",metro,GA
+urbana_oh,"Urbana, OH",metro,OH
+douglas_ga,"Douglas, GA",metro,GA
+brownwood_tx,"Brownwood, TX",metro,TX
+newport_tn,"Newport, TN",metro,TN
+alma_mi,"Alma, MI",metro,MI
+brevard_nc,"Brevard, NC",metro,NC
+alice_tx,"Alice, TX",metro,TX
+logansport_in,"Logansport, IN",metro,IN
+batesville_ar,"Batesville, AR",metro,AR
+coshocton_oh,"Coshocton, OH",metro,OH
+summit_park_ut,"Summit Park, UT",metro,UT
+owatonna_mn,"Owatonna, MN",metro,MN
+hutchinson_mn,"Hutchinson, MN",metro,MN
+dickinson_nd,"Dickinson, ND",metro,ND
+sault_ste_marie_mi,"Sault Ste. Marie, MI",metro,MI
+pontiac_il,"Pontiac, IL",metro,IL
+bay_city_tx,"Bay City, TX",metro,TX
+garden_city_ks,"Garden City, KS",metro,KS
+logan_wv,"Logan, WV",metro,WV
+huntington_in,"Huntington, IN",metro,IN
+lebanon_mo,"Lebanon, MO",metro,MO
+valley_al,"Valley, AL",metro,AL
+canton_il,"Canton, IL",metro,IL
+okeechobee_fl,"Okeechobee, FL",metro,FL
+jackson_wy,"Jackson, WY",metro,WY
+effingham_il,"Effingham, IL",metro,IL
+sulphur_springs_tx,"Sulphur Springs, TX",metro,TX
+arkansas_city_ks,"Winfield, KS",metro,KS
+brenham_tx,"Brenham, TX",metro,TX
+vidalia_ga,"Vidalia, GA",metro,GA
+taylorville_il,"Taylorville, IL",metro,IL
+coffeyville_ks,"Coffeyville, KS",metro,KS
+martin_tn,"Martin, TN",metro,TN
+paris_tn,"Paris, TN",metro,TN
+junction_city_ks,"Junction City, KS",metro,KS
+americus_ga,"Americus, GA",metro,GA
+angola_in,"Angola, IN",metro,IN
+iron_mountain_mi,"Iron Mountain, MI",metro,MI
+cambridge_md,"Cambridge, MD",metro,MD
+deridder_la,"DeRidder, LA",metro,LA
+troy_al,"Troy, AL",metro,AL
+brookhaven_ms,"Brookhaven, MS",metro,MS
+laurinburg_nc,"Laurinburg, NC",metro,NC
+seneca_falls_ny,"Seneca Falls, NY",metro,NY
+dixon_il,"Dixon, IL",metro,IL
+emporia_ks,"Emporia, KS",metro,KS
+albert_lea_mn,"Albert Lea, MN",metro,MN
+columbus_ne,"Columbus, NE",metro,NE
+peru_in,"Peru, IN",metro,IN
+sheridan_wy,"Sheridan, WY",metro,WY
+juneau_ak,"Juneau, AK",metro,AK
+brookings_sd,"Brookings, SD",metro,SD
+breckenridge_co,"Breckenridge, CO",metro,CO
+jackson_oh,"Jackson, OH",metro,OH
+madison_in,"Madison, IN",metro,IN
+alpena_mi,"Alpena, MI",metro,MI
+macomb_il,"Macomb, IL",metro,IL
+malvern_ar,"Malvern, AR",metro,AR
+camden_ar,"Camden, AR",metro,AR
+hastings_ne,"Hastings, NE",metro,NE
+dayton_tn,"Dayton, TN",metro,TN
+silver_city_nm,"Silver City, NM",metro,NM
+big_spring_tx,"Big Spring, TX",metro,TX
+wabash_in,"Wabash, IN",metro,IN
+vernal_ut,"Vernal, UT",metro,UT
+kennett_mo,"Kennett, MO",metro,MO
+miami_ok,"Miami, OK",metro,OK
+clewiston_fl,"Clewiston, FL",metro,FL
+hays_ks,"Hays, KS",metro,KS
+lewisburg_tn,"Lewisburg, TN",metro,TN
+decatur_in,"Decatur, IN",metro,IN
+ludington_mi,"Ludington, MI",metro,MI
+watertown_sd,"Watertown, SD",metro,SD
+merrill_wi,"Merrill, WI",metro,WI
+mcpherson_ks,"McPherson, KS",metro,KS
+weatherford_ok,"Weatherford, OK",metro,OK
+elkins_wv,"Elkins, WV",metro,WV
+washington_in,"Washington, IN",metro,IN
+frankfort_in,"Frankfort, IN",metro,IN
+safford_az,"Safford, AZ",metro,AZ
+kirksville_mo,"Kirksville, MO",metro,MO
+arcadia_fl,"Arcadia, FL",metro,FL
+las_vegas_nm,"Las Vegas, NM",metro,NM
+kingsville_tx,"Kingsville, TX",metro,TX
+middlesborough_ky,"Middlesborough, KY",metro,KY
+dodge_city_ks,"Dodge City, KS",metro,KS
+washington_court_house_oh,"Washington Court House, OH",metro,OH
+van_wert_oh,"Van Wert, OH",metro,OH
+plainview_tx,"Plainview, TX",metro,TX
+fredericksburg_tx,"Fredericksburg, TX",metro,TX
+hailey_id,"Hailey, ID",metro,ID
+great_bend_ks,"Great Bend, KS",metro,KS
+spearfish_sd,"Spearfish, SD",metro,SD
+mineral_wells_tx,"Mineral Wells, TX",metro,TX
+boone_ia,"Boone, IA",metro,IA
+lincoln_il,"Lincoln, IL",metro,IL
+mount_pleasant_tx,"Mount Pleasant, TX",metro,TX
+la_grande_or,"La Grande, OR",metro,OR
+new_ulm_mn,"New Ulm, MN",metro,MN
+fort_morgan_co,"Fort Morgan, CO",metro,CO
+brookings_or,"Brookings, OR",metro,OR
+greensburg_in,"Greensburg, IN",metro,IN
+north_vernon_in,"North Vernon, IN",metro,IN
+jesup_ga,"Jesup, GA",metro,GA
+bastrop_la,"Bastrop, LA",metro,LA
+the_dalles_or,"The Dalles, OR",metro,OR
+thomaston_ga,"Thomaston, GA",metro,GA
+steamboat_springs_co,"Steamboat Springs, CO",metro,CO
+marshall_mn,"Marshall, MN",metro,MN
+bainbridge_ga,"Bainbridge, GA",metro,GA
+altus_ok,"Altus, OK",metro,OK
+campbellsville_ky,"Campbellsville, KY",metro,KY
+bennettsville_sc,"Bennettsville, SC",metro,SC
+ottawa_ks,"Ottawa, KS",metro,KS
+mountain_home_id,"Mountain Home, ID",metro,ID
+toccoa_ga,"Toccoa, GA",metro,GA
+mitchell_sd,"Mitchell, SD",metro,SD
+crescent_city_ca,"Crescent City, CA",metro,CA
+mexico_mo,"Mexico, MO",metro,MO
+lexington_ne,"Lexington, NE",metro,NE
+fallon_nv,"Fallon, NV",metro,NV
+wahpeton_nd,"Wahpeton, ND",metro,ND
+beeville_tx,"Beeville, TX",metro,TX
+uvalde_tx,"Uvalde, TX",metro,TX
+pierre_sd,"Pierre, SD",metro,SD
+deming_nm,"Deming, NM",metro,NM
+susanville_ca,"Susanville, CA",metro,CA
+magnolia_ar,"Magnolia, AR",metro,AR
+connersville_in,"Connersville, IN",metro,IN
+jamestown_nd,"Jamestown, ND",metro,ND
+beatrice_ne,"Beatrice, NE",metro,NE
+moberly_mo,"Moberly, MO",metro,MO
+heber_ut,"Heber, UT",metro,UT
+yankton_sd,"Yankton, SD",metro,SD
+summerville_ga,"Summerville, GA",metro,GA
+grants_nm,"Grants, NM",metro,NM
+forrest_city_ar,"Forrest City, AR",metro,AR
+oskaloosa_ia,"Oskaloosa, IA",metro,IA
+marshall_mo,"Marshall, MO",metro,MO
+elk_city_ok,"Elk City, OK",metro,OK
+grenada_ms,"Grenada, MS",metro,MS
+cordele_ga,"Cordele, GA",metro,GA
+prineville_or,"Prineville, OR",metro,OR
+borger_tx,"Borger, TX",metro,TX
+hood_river_or,"Hood River, OR",metro,OR
+pampa_tx,"Pampa, TX",metro,TX
+arkadelphia_ar,"Arkadelphia, AR",metro,AR
+levelland_tx,"Levelland, TX",metro,TX
+woodward_ok,"Woodward, OK",metro,OK
+parsons_ks,"Parsons, KS",metro,KS
+maryville_mo,"Maryville, MO",metro,MO
+indianola_ms,"Indianola, MS",metro,MS
+wauchula_fl,"Wauchula, FL",metro,FL
+port_lavaca_tx,"Port Lavaca, TX",metro,TX
+vineyard_haven_ma,"Vineyard Haven, MA",metro,MA
+sterling_co,"Sterling, CO",metro,CO
+worthington_mn,"Worthington, MN",metro,MN
+spirit_lake_ia,"Spirit Lake, IA",metro,IA
+evanston_wy,"Evanston, WY",metro,WY
+price_ut,"Price, UT",metro,UT
+guymon_ok,"Guymon, OK",metro,OK
+storm_lake_ia,"Storm Lake, IA",metro,IA
+huron_sd,"Huron, SD",metro,SD
+helena_ar,"Helena, AR",metro,AR
+liberal_ks,"Liberal, KS",metro,KS
+los_alamos_nm,"Los Alamos, NM",metro,NM
+spencer_ia,"Spencer, IA",metro,IA
+fairfield_ia,"Fairfield, IA",metro,IA
+dumas_tx,"Dumas, TX",metro,TX
+portales_nm,"Portales, NM",metro,NM
+winnemucca_nv,"Winnemucca, NV",metro,NV
+maysville_ky,"Maysville, KY",metro,KY
+fitzgerald_ga,"Fitzgerald, GA",metro,GA
+andrews_tx,"Andrews, TX",metro,TX
+hereford_tx,"Hereford, TX",metro,TX
+snyder_tx,"Snyder, TX",metro,TX
+sweetwater_tx,"Sweetwater, TX",metro,TX
+atchison_ks,"Atchison, KS",metro,KS
+othello_wa,"Othello, WA",metro,WA
+raymondville_tx,"Raymondville, TX",metro,TX
+ketchikan_ak,"Ketchikan, AK",metro,AK
+vermillion_sd,"Vermillion, SD",metro,SD
+vernon_tx,"Vernon, TX",metro,TX
+craig_co,"Craig, CO",metro,CO
+lamesa_tx,"Lamesa, TX",metro,TX
+zapata_tx,"Zapata, TX",metro,TX
+pecos_tx,"Pecos, TX",metro,TX
+stamford_ct,"Stamford, CT",metro,CT
+ventura_ca,"Ventura, CA",metro,CA
+fort_myers_fl,"Fort Myers, FL",metro,FL
+daytona_beach_fl,"Daytona Beach, FL",metro,FL
+melbourne_fl,"Melbourne, FL",metro,FL
+new_london_ct,"New London, CT",metro,CT
+vero_beach_fl,"Vero Beach, FL",metro,FL
+poughkeepsie_ny,"Poughkeepsie, NY",metro,NY
+mount_gay_wv,"Mount Gay, WV",metro,WV
+anaheim_ca,"Anaheim, CA",metro,CA
+newark_nj,"Newark, NJ",metro,NJ
+wilmington_de,"Wilmington, DE",metro,DE
