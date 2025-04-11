@@ -28,6 +28,12 @@ def main():
             print("Error: KEYS.csv not found")
             return 1
     
+    state_abbrev_map = {}
+    if os.path.exists("KEYS.csv"):
+        keys_df = pd.read_csv("KEYS.csv")
+        for _, row in keys_df.iterrows():
+            if row['region_type'] == 'state' and not pd.isna(row['zillow_region_name']) and not pd.isna(row['state_abbreviation']):
+                state_abbrev_map[row['zillow_region_name']] = row['state_abbreviation']
     
     result_df = pd.DataFrame({
         'key_row': df.iloc[:, 0],
@@ -36,6 +42,21 @@ def main():
     })
     
     result_df = result_df.dropna(subset=['regionname'])
+    
+    result_df = result_df[result_df['regionname'] != "RegionName"]
+    
+    def get_location(row):
+        if row['regiontype'] == 'country':
+            return 'US'
+        elif row['regiontype'] == 'state':
+            return state_abbrev_map.get(row['regionname'], '')
+        elif row['regiontype'] == 'metro':
+            if isinstance(row['regionname'], str) and len(row['regionname']) >= 2:
+                return row['regionname'][-2:]
+            return ''
+        return ''
+    
+    result_df['location'] = result_df.apply(get_location, axis=1)
     
     result_df.to_csv('zillow_data.csv', index=False)
     
